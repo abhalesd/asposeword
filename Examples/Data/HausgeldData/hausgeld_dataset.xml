@@ -1,0 +1,1948 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <DokDaten>
+    <Datum>2022-04-16T00:00:00+02:00</Datum>
+    <DocumentData_Key>a3327aef-9f5b-4d6f-88ec-b472a3c7eeca</DocumentData_Key>
+  </DokDaten>
+  <Daten>
+    <ABRAKBUSAnzahl>2</ABRAKBUSAnzahl>
+    <AbrechnungHatErklärungen>false</AbrechnungHatErklärungen>
+    <AbrechnungSollbetrag>1917.74</AbrechnungSollbetrag>
+    <Abrechnungsperiode>2022</Abrechnungsperiode>
+    <AbrechnungsTipp>417.74</AbrechnungsTipp>
+    <AbrechnungsZeitraumBis>2022-12-31T00:00:00+01:00</AbrechnungsZeitraumBis>
+    <AbrechnungsZeitraumTage>365</AbrechnungsZeitraumTage>
+    <AbrechnungsZeitraumVon>2022-01-01T00:00:00+01:00</AbrechnungsZeitraumVon>
+    <ABRNEBUSAnzahl>2</ABRNEBUSAnzahl>
+    <ABRNVBUSAnzahl>2</ABRNVBUSAnzahl>
+    <AKTABRAnzahl>1</AKTABRAnzahl>
+    <AnzahlBankverbindungenErsterVertragsnehmer>1</AnzahlBankverbindungenErsterVertragsnehmer>
+    <AnzahlTageInPeriode>365</AnzahlTageInPeriode>
+    <CQTABRAnzahl>0</CQTABRAnzahl>
+    <CVABRAnzahl>0</CVABRAnzahl>
+    <DCDGABRAnzahl>1</DCDGABRAnzahl>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <DocumentData_Key>a3327aef-9f5b-4d6f-88ec-b472a3c7eeca</DocumentData_Key>
+    <FCVABRAnzahl>0</FCVABRAnzahl>
+    <GesamtabrechnungszeitraumBis>2022-12-31T00:00:00+01:00</GesamtabrechnungszeitraumBis>
+    <GesamtabrechnungszeitraumVon>2022-01-01T00:00:00+01:00</GesamtabrechnungszeitraumVon>
+    <GTABRAnzahl>0</GTABRAnzahl>
+    <GutschriftVerrechnungsdatum>2022-01-11T00:00:00+01:00</GutschriftVerrechnungsdatum>
+    <HatErklärungen>false</HatErklärungen>
+    <HatKeineVerbundenAKs>false</HatKeineVerbundenAKs>
+    <Id>107</Id>
+    <Identifikationsnummer>424.01.001.01.2022.5</Identifikationsnummer>
+    <IRSollbetrag>1167.74</IRSollbetrag>
+    <KappungKostenumlage>false</KappungKostenumlage>
+    <KostenanteilGekappt>false</KostenanteilGekappt>
+    <KostenanteilNV2ggfLeer>0</KostenanteilNV2ggfLeer>
+    <KostenverbundHatErklärungstexte>false</KostenverbundHatErklärungstexte>
+    <KVTABRAnzahl>0</KVTABRAnzahl>
+    <MEKFBAnzahl>0</MEKFBAnzahl>
+    <MEKMPAnzahl>0</MEKMPAnzahl>
+    <MGKAnzahl>0</MGKAnzahl>
+    <MGKFBAnzahl>0</MGKFBAnzahl>
+    <MGKJHAnzahl>0</MGKJHAnzahl>
+    <MGKMPAnzahl>0</MGKMPAnzahl>
+    <MietePlusAbrErg>-217.74</MietePlusAbrErg>
+    <MitVZAnpassungMitSteuer>false</MitVZAnpassungMitSteuer>
+    <MitVZAnpassungOhneSteuer>false</MitVZAnpassungOhneSteuer>
+    <NachzahlungVerrechnungsdatum>2022-01-11T00:00:00+01:00</NachzahlungVerrechnungsdatum>
+    <NCAKTABRAnzahl>0</NCAKTABRAnzahl>
+    <NEHatErklärungen>false</NEHatErklärungen>
+    <NVHatErklärungen>false</NVHatErklärungen>
+    <Rückerstattungsbetrag>-217.74</Rückerstattungsbetrag>
+    <SollVZ>1167.74</SollVZ>
+    <SteuersatzProzentNichtLeer>0</SteuersatzProzentNichtLeer>
+    <SteuerWert>0</SteuerWert>
+    <SummeAusfallwagnis>0</SummeAusfallwagnis>
+    <SummeKostenanteile>750.00</SummeKostenanteile>
+    <SummeKostenanteileBrutto>750.00</SummeKostenanteileBrutto>
+    <SummeNichtAusgeschlosseneTeilabrechnung>-417.74</SummeNichtAusgeschlosseneTeilabrechnung>
+    <SummeNichtAusgeschlosseneTeilabrechnungIstNegativ>417.74</SummeNichtAusgeschlosseneTeilabrechnungIstNegativ>
+    <SummeTeilabrechnungen>-417.74</SummeTeilabrechnungen>
+    <SummeTeilabrechnungenAbsolut>417.74</SummeTeilabrechnungenAbsolut>
+    <SummeTeilabrechnungenAbsolutNetto>417.74</SummeTeilabrechnungenAbsolutNetto>
+    <SummeTeilabrechnungenAbsolutSteuern>0</SummeTeilabrechnungenAbsolutSteuern>
+    <SummeTeilabrechnungenNetto>-417.74</SummeTeilabrechnungenNetto>
+    <SummeTeilabrechnungenNichtSepaMehrfach>-417.74</SummeTeilabrechnungenNichtSepaMehrfach>
+    <SummeTeilabrechnungenSepaMehrfach>0</SummeTeilabrechnungenSepaMehrfach>
+    <SummeTeilabrechnungenSteuer>0</SummeTeilabrechnungenSteuer>
+    <VZAnpassungNichtSepaMehrfach>false</VZAnpassungNichtSepaMehrfach>
+    <VZAnpassungSepaMehrfach>false</VZAnpassungSepaMehrfach>
+    <VZWert>1167.74</VZWert>
+    <VZWertAlt>200.00</VZWertAlt>
+    <VZWertAnpassung>-200.00</VZWertAnpassung>
+    <VZWertNetto>1167.74</VZWertNetto>
+    <VZWertNetto16>0</VZWertNetto16>
+    <VZWertNetto19>0</VZWertNetto19>
+    <VZWertNeu>0</VZWertNeu>
+    <VZWertSteuer>0</VZWertSteuer>
+    <VZWertSteuer16>0</VZWertSteuer16>
+    <VZWertSteuer19>0</VZWertSteuer19>
+    <WEGSollVZ>2335.48</WEGSollVZ>
+  </Daten>
+  <NV>
+    <Anrede>Sehr geehrter Herr Glover,</Anrede>
+    <Anschrift>Herrn
+Hakeem Glover
+Auf der Höhe 6
+32361 Preußisch Oldendorf</Anschrift>
+    <Anschrift1>Herrn</Anschrift1>
+    <Anschrift2>Hakeem Glover</Anschrift2>
+    <Anschrift5>Auf der Höhe 6</Anschrift5>
+    <Anschrift6>32361 Preußisch Oldendorf</Anschrift6>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <ErsterVertragsnehmerKurzname>Glover, Hakeem</ErsterVertragsnehmerKurzname>
+    <Gesamtmiete>200.00</Gesamtmiete>
+    <GesamtNettomiete>200</GesamtNettomiete>
+    <Inkassobesonderheit>Offene Posten am (FIODebitEntryType.Name.OffenePostenAm)</Inkassobesonderheit>
+    <Kaltmiete>0</Kaltmiete>
+    <KaltmieteProQuadratmeter>0</KaltmieteProQuadratmeter>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+    <Miete>200.00</Miete>
+    <MieteProQuadratmeter>2</MieteProQuadratmeter>
+    <Nutzungsbeschränkung>Keine</Nutzungsbeschränkung>
+    <NVNummer>424.01.001.01</NVNummer>
+    <SteueranteilGesamtmiete>0.00</SteueranteilGesamtmiete>
+    <StornoVertrag>false</StornoVertrag>
+    <SummeAktiveNVPositionen>200.00</SummeAktiveNVPositionen>
+    <Vermietungssperre>false</Vermietungssperre>
+    <VertraglicheLaufzeit>unbefristet (FIOLifeOfAContract.Name.Unlimited)</VertraglicheLaufzeit>
+    <Vertragsbeginn>2022-01-11T00:00:00+01:00</Vertragsbeginn>
+    <VertragsbeginnPlus1Monat>2022-02-11T00:00:00+01:00</VertragsbeginnPlus1Monat>
+    <VertragsbeginnPlus2Monate>2022-03-11T00:00:00+01:00</VertragsbeginnPlus2Monate>
+    <Vertragsstatus>aktiv (FIOStatusContracts.Name.Active)</Vertragsstatus>
+    <Zahlungsintervall>monatlich (FIOPaymentInterval.Name.Monthly)</Zahlungsintervall>
+  </NV>
+  <NV_Kündigung>
+    <ContractTerminationDto_Key>4fe65a28-a458-41cb-9545-70ac1321cbba</ContractTerminationDto_Key>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+  </NV_Kündigung>
+  <NV_VirtuellesBankkonto>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+    <VirtualBankaccountDto_Key>838d9a10-4e66-4e1e-960c-54cf1bb6b9b9</VirtualBankaccountDto_Key>
+    <VKNummer>424.01.001.01</VKNummer>
+    <VKTyp>Nutzungsvertrag (FIOVirtualBankaccountType.Code.LicenseAgreement)</VKTyp>
+    <ZahlungsBic>MARKDEF1100</ZahlungsBic>
+    <ZahlungsIban>DE54100000000000008271</ZahlungsIban>
+  </NV_VirtuellesBankkonto>
+  <NV_Sammelkonto>
+    <Bankname>Deutsche Bank</Bankname>
+    <BIC>MARKDEF1100</BIC>
+    <CollectiveAccountDto_Key>1821e66f-442c-4ef0-be05-522e43287037</CollectiveAccountDto_Key>
+    <GlaubigerId>NL51ZZZ405365330000</GlaubigerId>
+    <IBAN>DE54100000000000008271</IBAN>
+    <Kontoinhaber>Fischer, Henry</Kontoinhaber>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+  </NV_Sammelkonto>
+  <NV_VN1>
+    <Adressart>Private Adresse (FIOAddressType.Code.PrivateAddress)</Adressart>
+    <ContractualUseDto_Key>7fea3a98-eb0f-4269-a6b0-5a03834417f3</ContractualUseDto_Key>
+    <Email />
+    <Fax />
+    <Homepage />
+    <IstJuristischePerson>false</IstJuristischePerson>
+    <IstNatuerlichePerson>true</IstNatuerlichePerson>
+    <JuristischePersonName1 />
+    <JuristischePersonName2 />
+    <Kurzname>Glover, Hakeem</Kurzname>
+    <Land>DEUTSCHLAND (FIOCountry.Code.DE)</Land>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+    <Mobilnummer />
+    <Name>Hakeem Glover</Name>
+    <NatürlichePersonGeburtsort>München</NatürlichePersonGeburtsort>
+    <NatürlichePersonNachname>Glover</NatürlichePersonNachname>
+    <NatürlichePersonTitel>Herr</NatürlichePersonTitel>
+    <NatürlichePersonVorname>Hakeem</NatürlichePersonVorname>
+    <PersonalausweisLagVor>false</PersonalausweisLagVor>
+    <PersonIdNum>0000534</PersonIdNum>
+    <PLZUndOrt>7728 Johnston</PLZUndOrt>
+    <Straße>Occupation Green 277</Straße>
+    <Telefon />
+  </NV_VN1>
+  <NV_VN1_MGSepa>
+    <ContractualUseDto_Key>7fea3a98-eb0f-4269-a6b0-5a03834417f3</ContractualUseDto_Key>
+    <GültigVon>0001-01-01T00:00:00+01:00</GültigVon>
+    <SepaMandateDto_Key>0f5f357b-a583-486d-855e-e1b14b020788</SepaMandateDto_Key>
+  </NV_VN1_MGSepa>
+  <VN1_MG>
+    <AktiveAnzahl>0</AktiveAnzahl>
+    <ContractualUseDto_Key>7fea3a98-eb0f-4269-a6b0-5a03834417f3</ContractualUseDto_Key>
+    <CooperativeMembershipSmallDto_Key>5d03951e-7778-4557-b642-b7ec257888fa</CooperativeMembershipSmallDto_Key>
+  </VN1_MG>
+  <NV_VN1_Kinder>
+    <Bemerkung>Ein sehr liebes Kind.</Bemerkung>
+    <ChildDto_Key>893bd231-d821-4548-a3f5-413fde6dc9c5</ChildDto_Key>
+    <ContractualUseDto_Key>7fea3a98-eb0f-4269-a6b0-5a03834417f3</ContractualUseDto_Key>
+    <Name>NatKindNachname_11125517</Name>
+    <Vorname>NatKindVorname_11125517</Vorname>
+  </NV_VN1_Kinder>
+  <NV_VN2>
+    <ContractualUseDto_Key>f00a011c-f86b-4250-acef-ca4b56e97f06</ContractualUseDto_Key>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+  </NV_VN2>
+  <NV_VNAbw>
+    <ContractualUseDto_Key>bc8aa5c3-8db5-4ad0-9e18-591ff11b782c</ContractualUseDto_Key>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+  </NV_VNAbw>
+  <NV_VNSozA>
+    <ContractualUseDto_Key>e8085e92-437c-456c-8b83-48a0df0e5e38</ContractualUseDto_Key>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+  </NV_VNSozA>
+  <NV_Zahlungsm>
+    <GültigVon>0001-01-01T00:00:00+01:00</GültigVon>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+    <PaymentModeDto_Key>e3ee783b-debc-48af-ba74-74972f432d41</PaymentModeDto_Key>
+  </NV_Zahlungsm>
+  <NV_Sachbearbeiter>
+    <Hauptzuständigkeit>false</Hauptzuständigkeit>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+    <UseUnitJurisdictionDto_Key>4bc0856d-7358-4c15-b321-30084ff52ad8</UseUnitJurisdictionDto_Key>
+  </NV_Sachbearbeiter>
+  <NV_GNV>
+    <GeneralLicenseAgreement_Key>b6c6d353-a6d4-4f05-95fe-29c13f994474</GeneralLicenseAgreement_Key>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+  </NV_GNV>
+  <NV_Zusatzfeld>
+    <AdditionalFieldContainerDto_Key>1d99a625-7b4a-4bad-84d7-dd2000d4d2db</AdditionalFieldContainerDto_Key>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+  </NV_Zusatzfeld>
+  <NVPosition1>
+    <ContractPositionsPlaceholderDto_Key>0361148c-1e24-4783-9d77-083d1ab6599a</ContractPositionsPlaceholderDto_Key>
+    <GültigVon>0001-01-01T00:00:00+01:00</GültigVon>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+  </NVPosition1>
+  <NVPosition2>
+    <ContractPositionsPlaceholderDto_Key>0eb14c9c-16a0-4ab4-8c98-88db18f2fe32</ContractPositionsPlaceholderDto_Key>
+    <GültigVon>0001-01-01T00:00:00+01:00</GültigVon>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+  </NVPosition2>
+  <NVPosition3>
+    <ContractPositionsPlaceholderDto_Key>b54e89c7-0681-4ff7-9b07-0fc91e8e0a00</ContractPositionsPlaceholderDto_Key>
+    <GültigVon>0001-01-01T00:00:00+01:00</GültigVon>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+  </NVPosition3>
+  <NVPosition4>
+    <ContractPositionsPlaceholderDto_Key>44208267-4be0-485c-9afc-082661562ad5</ContractPositionsPlaceholderDto_Key>
+    <GültigVon>0001-01-01T00:00:00+01:00</GültigVon>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+  </NVPosition4>
+  <NVPosition5>
+    <ContractPositionsPlaceholderDto_Key>657f1cde-6e72-4a05-a554-6b5ae4a41810</ContractPositionsPlaceholderDto_Key>
+    <GültigVon>0001-01-01T00:00:00+01:00</GültigVon>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+  </NVPosition5>
+  <NVPosition6>
+    <ContractPositionsPlaceholderDto_Key>6417cf98-4827-4837-b2c8-ebb5a68db90b</ContractPositionsPlaceholderDto_Key>
+    <GültigVon>0001-01-01T00:00:00+01:00</GültigVon>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+  </NVPosition6>
+  <NVPosition7>
+    <ContractPositionsPlaceholderDto_Key>71cdee6c-a0bf-46ba-984c-a0901b5265d9</ContractPositionsPlaceholderDto_Key>
+    <GültigVon>0001-01-01T00:00:00+01:00</GültigVon>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+  </NVPosition7>
+  <NVPosition8>
+    <ContractPositionsPlaceholderDto_Key>b2ac104e-aa49-4d41-9b45-0eb296d82723</ContractPositionsPlaceholderDto_Key>
+    <GültigVon>0001-01-01T00:00:00+01:00</GültigVon>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+  </NVPosition8>
+  <NVPosition9>
+    <ContractPositionsPlaceholderDto_Key>ce585245-1007-401c-a6b4-1e938b6347cf</ContractPositionsPlaceholderDto_Key>
+    <GültigVon>0001-01-01T00:00:00+01:00</GültigVon>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+  </NVPosition9>
+  <NVPosition10>
+    <ContractPositionsPlaceholderDto_Key>274ea4b3-b552-4946-8946-bc42f228aa67</ContractPositionsPlaceholderDto_Key>
+    <GültigVon>0001-01-01T00:00:00+01:00</GültigVon>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+  </NVPosition10>
+  <AktivePositionen>
+    <Änderungsdatum>2022-01-11T12:56:21.097+01:00</Änderungsdatum>
+    <Änderungsgrund>Zugang Allgemein</Änderungsgrund>
+    <Betrag>100.00</Betrag>
+    <ContractPositionsDto_Key>9cdabdcc-6269-4786-a235-9dad96529014</ContractPositionsDto_Key>
+    <GültigePosition>gültig (FIOValidPosition.Name.Valid)</GültigePosition>
+    <GültigVon>2022-01-11T00:00:00+01:00</GültigVon>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+    <Nettobetrag>100</Nettobetrag>
+    <Positionsart>VZ Hausgeld</Positionsart>
+    <Steuerbetrag>0</Steuerbetrag>
+    <SteuersatzName>U0</SteuersatzName>
+    <SteuersatzProzent>0.000000</SteuersatzProzent>
+    <Waehrung>Euro</Waehrung>
+    <Zugangsdatum>2022-01-11T12:56:20.94+01:00</Zugangsdatum>
+  </AktivePositionen>
+  <AktivePositionen>
+    <Änderungsdatum>2022-01-11T12:56:28.07+01:00</Änderungsdatum>
+    <Änderungsgrund>Zugang Allgemein</Änderungsgrund>
+    <Betrag>100.00</Betrag>
+    <ContractPositionsDto_Key>4ac827fd-1a41-4298-88c5-fb67dfee961b</ContractPositionsDto_Key>
+    <GültigePosition>gültig (FIOValidPosition.Name.Valid)</GültigePosition>
+    <GültigVon>2022-01-11T00:00:00+01:00</GültigVon>
+    <LicenseAgreementDto_Key>9d1b0dd3-d6bb-4695-a658-d517872d2ee3</LicenseAgreementDto_Key>
+    <Nettobetrag>100</Nettobetrag>
+    <Positionsart>Instandhaltungsrücklage</Positionsart>
+    <Steuerbetrag>0</Steuerbetrag>
+    <SteuersatzName>U0</SteuersatzName>
+    <SteuersatzProzent>0.000000</SteuersatzProzent>
+    <Waehrung>Euro</Waehrung>
+    <Zugangsdatum>2022-01-11T12:56:27.913+01:00</Zugangsdatum>
+  </AktivePositionen>
+  <NE>
+    <Adress>11563 Scottsdale, Dudley Close 665</Adress>
+    <Adressart>Geschäftsadresse (FIOAddressType.Code.BusinessAddress)</Adressart>
+    <AktivierungsStatus>Zugegangen (FIOUseUnitActivateType.Code.Entered)</AktivierungsStatus>
+    <Berechtigungsknoten>Präsentation Haufe axera</Berechtigungsknoten>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <Finanzierungsart>Freifinanziert</Finanzierungsart>
+    <Heizfläche>0</Heizfläche>
+    <IstKommerziell>false</IstKommerziell>
+    <Land>DEUTSCHLAND (FIOCountry.Code.DE)</Land>
+    <NEArt>Wohnung</NEArt>
+    <NENummer>424.01.001</NENummer>
+    <Nutzfläche>100.000</Nutzfläche>
+    <Ort>Scottsdale</Ort>
+    <PLZUndOrt>11563 Scottsdale</PLZUndOrt>
+    <SteuerIDNichtLeer>false</SteuerIDNichtLeer>
+    <SteuerNrNichtLeer>false</SteuerNrNichtLeer>
+    <Straße>Dudley Close 665</Straße>
+    <Umlageart>Selbst-/Fremdabrechnung (FIOAllocationType.Name.CombinedCostAllocation)</Umlageart>
+    <UseUnitDto_Key>4df7cb90-7e2c-4643-9e74-c56d9c4c765d</UseUnitDto_Key>
+    <UStIDNichtLeer>false</UStIDNichtLeer>
+    <Vermietungssperre>false</Vermietungssperre>
+    <VWGName>WEG Verwaltung_125150</VWGName>
+    <WIENummer>424</WIENummer>
+    <Zugangsdatum>2022-01-11T00:00:00+01:00</Zugangsdatum>
+    <Zugangsgrund>Datenübernahme (FIOEntryReason.Name.DataMigration)</Zugangsgrund>
+  </NE>
+  <NE_Eigentümer>
+    <Adressart>Geschäftsadresse (FIOAddressType.Code.BusinessAddress)</Adressart>
+    <EigentümerNummer>20085</EigentümerNummer>
+    <Email />
+    <Fax />
+    <Homepage />
+    <IstJuristischePerson>true</IstJuristischePerson>
+    <IstNatuerlichePerson>false</IstNatuerlichePerson>
+    <JuristischePersonName1>Damon N. Frye</JuristischePersonName1>
+    <Land>DEUTSCHLAND (FIOCountry.Code.DE)</Land>
+    <Mobilnummer />
+    <Name>Damon N. Frye</Name>
+    <NatürlichePersonNachname />
+    <NatürlichePersonTitel />
+    <NatürlichePersonVorname />
+    <Ort>Boston</Ort>
+    <OwnerDto_Key>a11cc3d7-3445-44d0-a65e-bf563c28f8c7</OwnerDto_Key>
+    <PersonIdNum>0000533</PersonIdNum>
+    <PLZUndOrt>2128 Boston</PLZUndOrt>
+    <Straße>Grosvenor Road 442</Straße>
+    <Telefon />
+    <UseUnitDto_Key>4df7cb90-7e2c-4643-9e74-c56d9c4c765d</UseUnitDto_Key>
+  </NE_Eigentümer>
+  <NE_Meldebehörde>
+    <ResidentsRegistrationOfficeDto_Key>4fc31469-afb8-4753-872d-c5c6daec0b93</ResidentsRegistrationOfficeDto_Key>
+    <UseUnitDto_Key>4df7cb90-7e2c-4643-9e74-c56d9c4c765d</UseUnitDto_Key>
+  </NE_Meldebehörde>
+  <NE_Architekt>
+    <ArchitectDto_Key>e581cf8d-c512-4565-b347-bb2eb37247a1</ArchitectDto_Key>
+    <UseUnitDto_Key>4df7cb90-7e2c-4643-9e74-c56d9c4c765d</UseUnitDto_Key>
+  </NE_Architekt>
+  <NE_Hauswart>
+    <CaretakerDto_Key>dc9ffd3a-f61d-48fd-881c-b95052945a88</CaretakerDto_Key>
+    <UseUnitDto_Key>4df7cb90-7e2c-4643-9e74-c56d9c4c765d</UseUnitDto_Key>
+  </NE_Hauswart>
+  <NE_Zusatzfeld>
+    <AdditionalFieldContainerDto_Key>7252c7d1-8141-4ca2-aeb6-66073548d7a5</AdditionalFieldContainerDto_Key>
+    <UseUnitDto_Key>4df7cb90-7e2c-4643-9e74-c56d9c4c765d</UseUnitDto_Key>
+  </NE_Zusatzfeld>
+  <FVV>
+    <Liquiditaetsrücklage>0</Liquiditaetsrücklage>
+    <UseUnitDto_Key>4df7cb90-7e2c-4643-9e74-c56d9c4c765d</UseUnitDto_Key>
+    <UseUnitPropertyManagementContractDto_Key>bfbaafdd-2af9-4159-a98e-1392373f74ee</UseUnitPropertyManagementContractDto_Key>
+  </FVV>
+  <NE_Abrechnungsgrößen>
+    <Anzahl>100.000</Anzahl>
+    <BillingUnitDto_Key>73de9425-54af-4ebc-9998-96f93ac464a6</BillingUnitDto_Key>
+    <GültigVon>2022-01-11T00:00:00+01:00</GültigVon>
+    <Mengenart>m² Nutz-/Wohnfläche (FIOQuantityType.Name.SquareMeterLivingSpace)</Mengenart>
+    <UseUnitDto_Key>4df7cb90-7e2c-4643-9e74-c56d9c4c765d</UseUnitDto_Key>
+  </NE_Abrechnungsgrößen>
+  <NE_Abrechnungsgrößen>
+    <Anzahl>50.000</Anzahl>
+    <BillingUnitDto_Key>2bda672d-60e5-43da-8254-42cbd8ca56ef</BillingUnitDto_Key>
+    <GültigVon>2022-01-11T00:00:00+01:00</GültigVon>
+    <Mengenart>Miteigentumsanteil (FIOQuantityType.Name.CoOwnershipShare)</Mengenart>
+    <UseUnitDto_Key>4df7cb90-7e2c-4643-9e74-c56d9c4c765d</UseUnitDto_Key>
+  </NE_Abrechnungsgrößen>
+  <NE_Abrechnungsgrößen>
+    <Anzahl>2.000</Anzahl>
+    <BillingUnitDto_Key>ed1ec03c-32df-4594-9998-4d7866c162bb</BillingUnitDto_Key>
+    <GültigVon>2022-01-11T00:00:00+01:00</GültigVon>
+    <Mengenart>Anzahl Rauchwarnmelder (FIOQuantityType.Name.SmokeAlarmDeviceCount)</Mengenart>
+    <UseUnitDto_Key>4df7cb90-7e2c-4643-9e74-c56d9c4c765d</UseUnitDto_Key>
+  </NE_Abrechnungsgrößen>
+  <Geb>
+    <Adressart>Geschäftsadresse (FIOAddressType.Code.BusinessAddress)</Adressart>
+    <Building_Key>389dc0fa-213c-445e-9c20-794a15a15092</Building_Key>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <Ebene>Hauptgebäude (FIOLevelType.Name.MainBuilding)</Ebene>
+    <Gebäudeart>Mehrfamilienhaus</Gebäudeart>
+    <GebäudeNummer>424.01</GebäudeNummer>
+    <Herkunft>alter Bestand mit Vertrag</Herkunft>
+    <Land>DEUTSCHLAND (FIOCountry.Code.DE)</Land>
+    <PLZUndOrt>11563 Scottsdale</PLZUndOrt>
+    <Straße>Dudley Close 665</Straße>
+    <Zugangsdatum>2022-01-11T00:00:00+01:00</Zugangsdatum>
+  </Geb>
+  <Geb_Hauswart>
+    <Building_Key>389dc0fa-213c-445e-9c20-794a15a15092</Building_Key>
+    <CaretakerDto_Key>82b1626f-72a9-4265-a1eb-30d9cfdfdb71</CaretakerDto_Key>
+  </Geb_Hauswart>
+  <Geb_Architekt>
+    <ArchitectDto_Key>b544936f-7d85-46b7-bf33-0b19d8e8ad28</ArchitectDto_Key>
+    <Building_Key>389dc0fa-213c-445e-9c20-794a15a15092</Building_Key>
+  </Geb_Architekt>
+  <Geb_VWG>
+    <Berechtigungsknoten>Präsentation Haufe axera</Berechtigungsknoten>
+    <Building_Key>389dc0fa-213c-445e-9c20-794a15a15092</Building_Key>
+    <ManagementDto_Key>554c9a70-9186-464b-9506-80364c18d95c</ManagementDto_Key>
+    <Verwaltungsart>WEG Verwaltung (FIOAdministrationType.Name.CondominiumManagementAdministration)</Verwaltungsart>
+    <VWGName>WEG Verwaltung_125150</VWGName>
+    <VWGNummer>125150</VWGNummer>
+  </Geb_VWG>
+  <Geb_WIE>
+    <AnzahlNEs>2</AnzahlNEs>
+    <Berechtigungsknoten>Präsentation Haufe axera</Berechtigungsknoten>
+    <Building_Key>389dc0fa-213c-445e-9c20-794a15a15092</Building_Key>
+    <EconomicUnitDto_Key>f401d70a-1cc2-43e5-968b-b03f8e60ebe4</EconomicUnitDto_Key>
+    <Status>Fertige, abgerechnete WIE</Status>
+    <Vermögensausweis>Wohnungseigentumsbestand</Vermögensausweis>
+    <WIEName>424_Dudley Close 665, 11563 Scottsdale</WIEName>
+    <WIENummer>424</WIENummer>
+    <Wohnlage>Dudley Close 665, 11563 Scottsdale</Wohnlage>
+  </Geb_WIE>
+  <Geb_WIE_Eigentümer>
+    <Adressart>Geschäftsadresse (FIOAddressType.Code.BusinessAddress)</Adressart>
+    <EconomicUnitDto_Key>f401d70a-1cc2-43e5-968b-b03f8e60ebe4</EconomicUnitDto_Key>
+    <EigentümerNummer>20085</EigentümerNummer>
+    <Email />
+    <Fax />
+    <Homepage />
+    <IstJuristischePerson>true</IstJuristischePerson>
+    <IstNatuerlichePerson>false</IstNatuerlichePerson>
+    <JuristischePersonName1>Damon N. Frye</JuristischePersonName1>
+    <Land>DEUTSCHLAND (FIOCountry.Code.DE)</Land>
+    <Mobilnummer />
+    <Name>Damon N. Frye</Name>
+    <NatürlichePersonNachname />
+    <NatürlichePersonTitel />
+    <NatürlichePersonVorname />
+    <Ort>Boston</Ort>
+    <OwnerDto_Key>18521883-a849-41bf-ba04-596fa97b703b</OwnerDto_Key>
+    <PersonIdNum>0000533</PersonIdNum>
+    <PLZUndOrt>2128 Boston</PLZUndOrt>
+    <Straße>Grosvenor Road 442</Straße>
+    <Telefon />
+  </Geb_WIE_Eigentümer>
+  <Geb_WIE_Zusatzfeld>
+    <AdditionalFieldContainerDto_Key>b9c54611-12c8-4ed5-94f3-bf0d970dc2cb</AdditionalFieldContainerDto_Key>
+    <EconomicUnitDto_Key>f401d70a-1cc2-43e5-968b-b03f8e60ebe4</EconomicUnitDto_Key>
+  </Geb_WIE_Zusatzfeld>
+  <Geb_Zusatzfeld>
+    <AdditionalFieldContainerDto_Key>c9fd0a1b-21d9-4dba-94e5-f27dd9e44fb4</AdditionalFieldContainerDto_Key>
+    <Building_Key>389dc0fa-213c-445e-9c20-794a15a15092</Building_Key>
+  </Geb_Zusatzfeld>
+  <WIE>
+    <AnzahlNEs>2</AnzahlNEs>
+    <Berechtigungsknoten>Präsentation Haufe axera</Berechtigungsknoten>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <EconomicUnit_Key>d6ddea71-8da8-4b09-9ba0-4c375a5d49b5</EconomicUnit_Key>
+    <Status>Fertige, abgerechnete WIE</Status>
+    <Vermögensausweis>Wohnungseigentumsbestand</Vermögensausweis>
+    <WIEName>424_Dudley Close 665, 11563 Scottsdale</WIEName>
+    <WIENummer>424</WIENummer>
+    <Wohnlage>Dudley Close 665, 11563 Scottsdale</Wohnlage>
+  </WIE>
+  <WIE_Eigentümer>
+    <Adressart>Geschäftsadresse (FIOAddressType.Code.BusinessAddress)</Adressart>
+    <EconomicUnit_Key>d6ddea71-8da8-4b09-9ba0-4c375a5d49b5</EconomicUnit_Key>
+    <EigentümerNummer>20085</EigentümerNummer>
+    <Email />
+    <Fax />
+    <Homepage />
+    <IstJuristischePerson>true</IstJuristischePerson>
+    <IstNatuerlichePerson>false</IstNatuerlichePerson>
+    <JuristischePersonName1>Damon N. Frye</JuristischePersonName1>
+    <Land>DEUTSCHLAND (FIOCountry.Code.DE)</Land>
+    <Mobilnummer />
+    <Name>Damon N. Frye</Name>
+    <NatürlichePersonNachname />
+    <NatürlichePersonTitel />
+    <NatürlichePersonVorname />
+    <Ort>Boston</Ort>
+    <OwnerDto_Key>76d0ef6a-bec2-4246-bc8d-419ed382c664</OwnerDto_Key>
+    <PersonIdNum>0000533</PersonIdNum>
+    <PLZUndOrt>2128 Boston</PLZUndOrt>
+    <Straße>Grosvenor Road 442</Straße>
+    <Telefon />
+  </WIE_Eigentümer>
+  <WIE_VWG>
+    <Berechtigungsknoten>Präsentation Haufe axera</Berechtigungsknoten>
+    <EconomicUnit_Key>d6ddea71-8da8-4b09-9ba0-4c375a5d49b5</EconomicUnit_Key>
+    <ManagementDto_Key>bda3d097-89b0-4bc9-8d34-9b4ff1070b57</ManagementDto_Key>
+    <Verwaltungsart>WEG Verwaltung (FIOAdministrationType.Name.CondominiumManagementAdministration)</Verwaltungsart>
+    <VWGName>WEG Verwaltung_125150</VWGName>
+    <VWGNummer>125150</VWGNummer>
+  </WIE_VWG>
+  <WIE_Zusatzfeld>
+    <AdditionalFieldContainerDto_Key>145180bd-592a-4e9f-b4d7-5b3c89815d2d</AdditionalFieldContainerDto_Key>
+    <EconomicUnit_Key>d6ddea71-8da8-4b09-9ba0-4c375a5d49b5</EconomicUnit_Key>
+  </WIE_Zusatzfeld>
+  <WIE_GebäudeListe>
+    <Adressart>Geschäftsadresse (FIOAddressType.Code.BusinessAddress)</Adressart>
+    <BuildingDto_Key>39e9eb37-6eef-4b02-b531-7ba6159791bd</BuildingDto_Key>
+    <Ebene>Hauptgebäude (FIOLevelType.Name.MainBuilding)</Ebene>
+    <EconomicUnit_Key>d6ddea71-8da8-4b09-9ba0-4c375a5d49b5</EconomicUnit_Key>
+    <Gebäudeart>Mehrfamilienhaus</Gebäudeart>
+    <GebäudeNummer>424.01</GebäudeNummer>
+    <Herkunft>alter Bestand mit Vertrag</Herkunft>
+    <Land>DEUTSCHLAND (FIOCountry.Code.DE)</Land>
+    <PLZUndOrt>11563 Scottsdale</PLZUndOrt>
+    <Straße>Dudley Close 665</Straße>
+    <Zugangsdatum>2022-01-11T00:00:00+01:00</Zugangsdatum>
+  </WIE_GebäudeListe>
+  <WIE_Geb_Zusatzfeld>
+    <AdditionalFieldContainerDto_Key>ded082f2-693e-4a7f-a459-db5856443555</AdditionalFieldContainerDto_Key>
+    <BuildingDto_Key>39e9eb37-6eef-4b02-b531-7ba6159791bd</BuildingDto_Key>
+  </WIE_Geb_Zusatzfeld>
+  <VWG>
+    <Berechtigungsknoten>Präsentation Haufe axera</Berechtigungsknoten>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <ManagementDto_Key>caa4a7d6-fc57-4f56-ac78-dc11e864a06c</ManagementDto_Key>
+    <Verwaltungsart>WEG Verwaltung (FIOAdministrationType.Name.CondominiumManagementAdministration)</Verwaltungsart>
+    <VWGName>WEG Verwaltung_125150</VWGName>
+    <VWGNummer>125150</VWGNummer>
+  </VWG>
+  <HKSABR>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <HabenGesamt>0</HabenGesamt>
+    <SettlementDocumentMasterAccountSummaryDto_Key>23957584-345b-407a-82e1-cef6206a42dc</SettlementDocumentMasterAccountSummaryDto_Key>
+    <SollBetragGesamt>0</SollBetragGesamt>
+  </HKSABR>
+  <SFBSABR>
+    <Bezeichnung />
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <EndstandIRAnteilET>0.000</EndstandIRAnteilET>
+    <EntnahmeIRAnteilET>0.000</EntnahmeIRAnteilET>
+    <Erhöhung>0</Erhöhung>
+    <Gesamt>0</Gesamt>
+    <NVMiteigentumsanteile>50.000</NVMiteigentumsanteile>
+    <Pauschalsteuer>0</Pauschalsteuer>
+    <SaldoVorherigePeriode>0</SaldoVorherigePeriode>
+    <SettlementDocumentSinkingFundBalanceSummaryDto_Key>eb2e27eb-ce3e-4599-a43f-11d548c3c9f2</SettlementDocumentSinkingFundBalanceSummaryDto_Key>
+    <Solidaritätszuschlag>0</Solidaritätszuschlag>
+    <Verringerung>0</Verringerung>
+    <WEGMiteigentumsanteile>100.000</WEGMiteigentumsanteile>
+    <Zins>0</Zins>
+  </SFBSABR>
+  <SFBABR>
+    <Bezeichnung>Rucklage test 424</Bezeichnung>
+    <EndstandIRAnteilET>0.000</EndstandIRAnteilET>
+    <EntnahmeIRAnteilET>0.000</EntnahmeIRAnteilET>
+    <Erhöhung>0</Erhöhung>
+    <Gesamt>0</Gesamt>
+    <Pauschalsteuer>0</Pauschalsteuer>
+    <SaldoVorherigePeriode>0</SaldoVorherigePeriode>
+    <SettlementDocumentSinkingFundBalanceDto_Key>d2540aab-7090-4f0d-80c8-66bf8346572c</SettlementDocumentSinkingFundBalanceDto_Key>
+    <SettlementDocumentSinkingFundBalanceSummaryDto_Key>eb2e27eb-ce3e-4599-a43f-11d548c3c9f2</SettlementDocumentSinkingFundBalanceSummaryDto_Key>
+    <Solidaritätszuschlag>0</Solidaritätszuschlag>
+    <Verringerung>0</Verringerung>
+    <Zins>0</Zins>
+  </SFBABR>
+  <RBKSABR>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <Haben>0</Haben>
+    <Saldo>0</Saldo>
+    <SaldoNachAbrechnung>417.74</SaldoNachAbrechnung>
+    <SaldoNegativ>0</SaldoNegativ>
+    <SettlementDocumentRentAccountBookingSummaryDto_Key>24a5cb96-ce9f-43f8-9859-c71b57d0103f</SettlementDocumentRentAccountBookingSummaryDto_Key>
+    <SollBetrag>0</SollBetrag>
+    <VorherigerSaldo>0</VorherigerSaldo>
+  </RBKSABR>
+  <SOCSABR>
+    <AbrechnungsTipp>835.48</AbrechnungsTipp>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <GesamtAufwendung>-1500.00</GesamtAufwendung>
+    <GesamtKosten>3835.48</GesamtKosten>
+    <GesamtSaldo>-1500.00</GesamtSaldo>
+    <IRBezahlterBetrag>0.00</IRBezahlterBetrag>
+    <IRSollbetrag>2335.48</IRSollbetrag>
+    <SettlementDocumentSummaryOwnerCostsDto_Key>83f32215-127b-44a6-ac5d-55dcf366c475</SettlementDocumentSummaryOwnerCostsDto_Key>
+    <SollVZ>2335.48</SollVZ>
+    <SummeKostenanteile>1500.00</SummeKostenanteile>
+    <VZBlockSaldo>0</VZBlockSaldo>
+    <VZWert>2335.48</VZWert>
+  </SOCSABR>
+  <SOCABR>
+    <AbrechnungsTipp>417.74</AbrechnungsTipp>
+    <GesamtAufwendung>-750.00</GesamtAufwendung>
+    <GesamtKosten>1917.74</GesamtKosten>
+    <GesamtSaldo>-750.00</GesamtSaldo>
+    <IRBezahlterBetrag>0.00</IRBezahlterBetrag>
+    <IRSollbetrag>1167.74</IRSollbetrag>
+    <NVMBETKonto>NatNachname_11125517, NatVorname_11125517</NVMBETKonto>
+    <NVMBETKontoAlleNamen>Glover, Hakeem</NVMBETKontoAlleNamen>
+    <NVVNIdNum>424.01.001.01</NVVNIdNum>
+    <SettlementDocumentOwnerCostsDto_Key>56451b4a-dc29-4b89-996e-dbb35664c8dd</SettlementDocumentOwnerCostsDto_Key>
+    <SettlementDocumentSummaryOwnerCostsDto_Key>83f32215-127b-44a6-ac5d-55dcf366c475</SettlementDocumentSummaryOwnerCostsDto_Key>
+    <SollVZ>1167.74</SollVZ>
+    <SummeKostenanteile>750.00</SummeKostenanteile>
+    <VZBlockSaldo>0</VZBlockSaldo>
+    <VZWert>1167.74</VZWert>
+  </SOCABR>
+  <SOCABR>
+    <AbrechnungsTipp>417.74</AbrechnungsTipp>
+    <GesamtAufwendung>-750.00</GesamtAufwendung>
+    <GesamtKosten>1917.74</GesamtKosten>
+    <GesamtSaldo>-750.00</GesamtSaldo>
+    <IRBezahlterBetrag>0.00</IRBezahlterBetrag>
+    <IRSollbetrag>1167.74</IRSollbetrag>
+    <NVMBETKonto>NatNachname_11125640, NatVorname_11125640</NVMBETKonto>
+    <NVMBETKontoAlleNamen>Alston, Aretha</NVMBETKontoAlleNamen>
+    <NVVNIdNum>424.01.002.01</NVVNIdNum>
+    <SettlementDocumentOwnerCostsDto_Key>459c635b-bcf9-44ec-b66f-0357444b94d7</SettlementDocumentOwnerCostsDto_Key>
+    <SettlementDocumentSummaryOwnerCostsDto_Key>83f32215-127b-44a6-ac5d-55dcf366c475</SettlementDocumentSummaryOwnerCostsDto_Key>
+    <SollVZ>1167.74</SollVZ>
+    <SummeKostenanteile>750.00</SummeKostenanteile>
+    <VZBlockSaldo>0</VZBlockSaldo>
+    <VZWert>1167.74</VZWert>
+  </SOCABR>
+  <CBTABR>
+    <Bezeichnung>Gesamt (Total)</Bezeichnung>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <Erhöhung>0</Erhöhung>
+    <Gesamt>0</Gesamt>
+    <Pauschalsteuer>0</Pauschalsteuer>
+    <SaldoVorherigePeriode>0</SaldoVorherigePeriode>
+    <SettlementDocumentCondominiumBalanceSummaryDto_Key>0095a2f6-207a-4873-b02e-1f18716fd8b3</SettlementDocumentCondominiumBalanceSummaryDto_Key>
+    <Solidaritätszuschlag>0</Solidaritätszuschlag>
+    <Verringerung>0</Verringerung>
+    <Zins>0</Zins>
+  </CBTABR>
+  <CBTABR_PersSaldo>
+    <Erhöhung>0</Erhöhung>
+    <Gesamt>0</Gesamt>
+    <MasterAccountCondominiumBalanceDto_Key>f10bf822-0596-4a4c-b27d-cf18b605924b</MasterAccountCondominiumBalanceDto_Key>
+    <Pauschalsteuer>0</Pauschalsteuer>
+    <SaldoVorherigePeriode>0</SaldoVorherigePeriode>
+    <SettlementDocumentCondominiumBalanceSummaryDto_Key>0095a2f6-207a-4873-b02e-1f18716fd8b3</SettlementDocumentCondominiumBalanceSummaryDto_Key>
+    <Solidaritätszuschlag>0</Solidaritätszuschlag>
+    <Verringerung>0</Verringerung>
+    <Zins>0</Zins>
+  </CBTABR_PersSaldo>
+  <CBTABR_CBABR>
+    <Bezeichnung>344000</Bezeichnung>
+    <Erhöhung>0</Erhöhung>
+    <Gesamt>0</Gesamt>
+    <Mengenart>Miteigentumsanteil (FIOQuantityType.Name.CoOwnershipShare)</Mengenart>
+    <MengenartKurzname>Miteigentumsanteil (FIOQuantityType.Name.CoOwnershipShare)</MengenartKurzname>
+    <Pauschalsteuer>0</Pauschalsteuer>
+    <SaldoVorherigePeriode>0</SaldoVorherigePeriode>
+    <SettlementDocumentCondominiumBalanceDto_Key>724dd2bd-1804-4ebe-9d0b-f0e75d51aa40</SettlementDocumentCondominiumBalanceDto_Key>
+    <SettlementDocumentCondominiumBalanceSummaryDto_Key>0095a2f6-207a-4873-b02e-1f18716fd8b3</SettlementDocumentCondominiumBalanceSummaryDto_Key>
+    <Solidaritätszuschlag>0</Solidaritätszuschlag>
+    <Verringerung>0</Verringerung>
+    <Zins>0</Zins>
+    <Zusammenfassung>344000 - Instandhaltungsrücklage</Zusammenfassung>
+  </CBTABR_CBABR>
+  <CBTABR_CBABR_PersSaldo>
+    <Bezeichnung>344000</Bezeichnung>
+    <Erhöhung>0</Erhöhung>
+    <Gesamt>0</Gesamt>
+    <Id>1316</Id>
+    <MasterAccountCondominiumBalanceDto_Key>a0137039-e75f-4cf6-bc11-c8301e201b52</MasterAccountCondominiumBalanceDto_Key>
+    <Pauschalsteuer>0</Pauschalsteuer>
+    <SaldoVorherigePeriode>0</SaldoVorherigePeriode>
+    <SettlementDocumentCondominiumBalanceDto_Key>724dd2bd-1804-4ebe-9d0b-f0e75d51aa40</SettlementDocumentCondominiumBalanceDto_Key>
+    <Solidaritätszuschlag>0</Solidaritätszuschlag>
+    <Verringerung>0</Verringerung>
+    <Zins>0</Zins>
+    <Zusammenfassung>344000 - Instandhaltungsrücklage</Zusammenfassung>
+  </CBTABR_CBABR_PersSaldo>
+  <TAbr>
+    <ABRAKBUSAnzahl>2</ABRAKBUSAnzahl>
+    <ABRNEBUSAnzahl>2</ABRNEBUSAnzahl>
+    <ABRNVBUSAnzahl>2</ABRNVBUSAnzahl>
+    <AKTABRAnzahl>1</AKTABRAnzahl>
+    <CVABRAnzahl>0</CVABRAnzahl>
+    <DistributionJobPartSettlements_Key>79df8013-1c11-4cf5-b789-57b4ad9b4843</DistributionJobPartSettlements_Key>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <ErgebnisTeilabrechnung>-417.74</ErgebnisTeilabrechnung>
+    <ErgebnisTeilabrechnungAbsolut>417.74</ErgebnisTeilabrechnungAbsolut>
+    <ErgebnisTeilabrechnungAbsolutNetto>417.74</ErgebnisTeilabrechnungAbsolutNetto>
+    <ErgebnisTeilabrechnungAbsolutSteuern>0</ErgebnisTeilabrechnungAbsolutSteuern>
+    <FCVABRAnzahl>0</FCVABRAnzahl>
+    <GesamtKosten>750.00</GesamtKosten>
+    <HatErklärungen>false</HatErklärungen>
+    <HatKeineVerbundenAKs>false</HatKeineVerbundenAKs>
+    <HatKostenanteileMitBrennstoffpositionen>false</HatKostenanteileMitBrennstoffpositionen>
+    <HatKostenanteileMitBuchungen>false</HatKostenanteileMitBuchungen>
+    <KostenanteilNV2ggfLeer>0</KostenanteilNV2ggfLeer>
+    <MEKFBAnzahl>0</MEKFBAnzahl>
+    <MEKMPAnzahl>0</MEKMPAnzahl>
+    <MGKFBAnzahl>0</MGKFBAnzahl>
+    <MGKJHAnzahl>0</MGKJHAnzahl>
+    <MGKMPAnzahl>0</MGKMPAnzahl>
+    <NCAKTABRAnzahl>0</NCAKTABRAnzahl>
+    <NVVZPeriodeBis>2022-12-31T00:00:00+01:00</NVVZPeriodeBis>
+    <NVVZPeriodeVon>2022-01-01T00:00:00+01:00</NVVZPeriodeVon>
+    <SteuerWert>0</SteuerWert>
+    <SteuerWert16>0</SteuerWert16>
+    <SteuerWert19>0</SteuerWert19>
+    <SummeDerKostenanteile_x0028_original_x0029_>750.00</SummeDerKostenanteile_x0028_original_x0029_>
+    <SummeKostenanteile>750.00</SummeKostenanteile>
+    <SummeKostenanteileBrutto>750.00</SummeKostenanteileBrutto>
+    <VZAbrechnungszeitraumBis>2022-12-31T00:00:00+01:00</VZAbrechnungszeitraumBis>
+    <VZAbrechnungszeitraumVon>2022-01-01T00:00:00+01:00</VZAbrechnungszeitraumVon>
+    <VZBlock>VZ Hausgeld</VZBlock>
+    <VZGesamtabrechnungszeitraumBis>2022-12-31T00:00:00+01:00</VZGesamtabrechnungszeitraumBis>
+    <VZGesamtabrechnungszeitraumVon>2022-01-11T00:00:00+01:00</VZGesamtabrechnungszeitraumVon>
+    <VZPeriodeBis>2022-12-31T00:00:00+01:00</VZPeriodeBis>
+    <VZPeriodeVon>2022-01-01T00:00:00+01:00</VZPeriodeVon>
+    <VZWert>1167.74</VZWert>
+    <VZWertNetto>1167.74</VZWertNetto>
+    <VZWertNetto16>0</VZWertNetto16>
+    <VZWertNetto19>0</VZWertNetto19>
+    <VZWertSteuer>0</VZWertSteuer>
+    <VZWertSteuer16>0</VZWertSteuer16>
+    <VZWertSteuer19>0</VZWertSteuer19>
+  </TAbr>
+  <TAbr_Dokukostenabr>
+    <AKKV-KostenartAnzeigename>Wasserversorgung</AKKV-KostenartAnzeigename>
+    <DistributionJobPartSettlements_Key>79df8013-1c11-4cf5-b789-57b4ad9b4843</DistributionJobPartSettlements_Key>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilAK-Kostenart2>0.00</KostenanteilAK-Kostenart2>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <SettlementDocumentCostPortions_Key>49048f6e-b6fb-4270-8d25-dc2c74d739fd</SettlementDocumentCostPortions_Key>
+    <Umlagekostenart>Wasserversorgung</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>10</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+  </TAbr_Dokukostenabr>
+  <TAbr_Dokukostenabr>
+    <AKKV-KostenartAnzeigename>Kosten der Entwässerung</AKKV-KostenartAnzeigename>
+    <DistributionJobPartSettlements_Key>79df8013-1c11-4cf5-b789-57b4ad9b4843</DistributionJobPartSettlements_Key>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilAK-Kostenart2>0.00</KostenanteilAK-Kostenart2>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <SettlementDocumentCostPortions_Key>80d1190d-1a9c-403c-a4a8-6fe9aef96c49</SettlementDocumentCostPortions_Key>
+    <Umlagekostenart>Kosten der Entwässerung</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>30</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+  </TAbr_Dokukostenabr>
+  <TAbr_Dokukostenabr>
+    <AKKV-KostenartAnzeigename>Allgemeinstrom</AKKV-KostenartAnzeigename>
+    <DistributionJobPartSettlements_Key>79df8013-1c11-4cf5-b789-57b4ad9b4843</DistributionJobPartSettlements_Key>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilAK-Kostenart2>0.00</KostenanteilAK-Kostenart2>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <SettlementDocumentCostPortions_Key>f75646d3-c26f-4cc7-b181-72d7df33823c</SettlementDocumentCostPortions_Key>
+    <Umlagekostenart>Allgemeinstrom</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>150</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+  </TAbr_Dokukostenabr>
+  <TAbr_AKTABR>
+    <AKKVDbId>20</AKKVDbId>
+    <AKKVName>424 BK - 2022</AKKVName>
+    <DistributionJobPartSettlements_Key>79df8013-1c11-4cf5-b789-57b4ad9b4843</DistributionJobPartSettlements_Key>
+    <KostenanteilUmlageWertAK>194,520 m² Nutz-/Wohnfläche</KostenanteilUmlageWertAK>
+    <SettlementDocumentAllocationGroupDto_Key>4479187e-87f0-4b1b-ad22-7e333d9c2a7d</SettlementDocumentAllocationGroupDto_Key>
+    <UmlagekostenartenDruckreihenfolge>10, 30, 150</UmlagekostenartenDruckreihenfolge>
+  </TAbr_AKTABR>
+  <TAbr_ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <DistributionJobPartSettlements_Key>79df8013-1c11-4cf5-b789-57b4ad9b4843</DistributionJobPartSettlements_Key>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>800000</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>c47dac9a-e2e5-41a3-bd07-f73e8023d612</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Wasserversorgung</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>10</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </TAbr_ACKATABR>
+  <TAbr_ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <DistributionJobPartSettlements_Key>79df8013-1c11-4cf5-b789-57b4ad9b4843</DistributionJobPartSettlements_Key>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>800100</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>ac576103-6553-47dd-bdd7-96bd0c27c1fc</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Kosten der Entwässerung</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>30</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </TAbr_ACKATABR>
+  <TAbr_ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <DistributionJobPartSettlements_Key>79df8013-1c11-4cf5-b789-57b4ad9b4843</DistributionJobPartSettlements_Key>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>801100</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>80b160ee-f0e8-4399-bf06-dace09b07b26</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Allgemeinstrom</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>150</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </TAbr_ACKATABR>
+  <TAbr_SACKATABR>
+    <DistributionJobPartSettlements_Key>79df8013-1c11-4cf5-b789-57b4ad9b4843</DistributionJobPartSettlements_Key>
+    <GesamtKosten>1500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart>1500.00</KostenanteilAK-Kostenart>
+    <SettlementDocumentAllocationGroupCostsDto_Key>f39b6014-bb28-4d3c-aa7d-079e2d2b64bb</SettlementDocumentAllocationGroupCostsDto_Key>
+  </TAbr_SACKATABR>
+  <TAbr_ABRAKBUS>
+    <AbrechnungsgrößeWert>200.000</AbrechnungsgrößeWert>
+    <AnzahlTage>365</AnzahlTage>
+    <DistributionJobPartSettlements_Key>79df8013-1c11-4cf5-b789-57b4ad9b4843</DistributionJobPartSettlements_Key>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <Liste>424 BK - 2022</Liste>
+    <Mengenart>m² Nutz-/Wohnfläche (FIOQuantityType.Name.SquareMeterLivingSpace)</Mengenart>
+    <MengenartDbId>3</MengenartDbId>
+    <MengenartKurzname>m² Nutz-/Wohnfläche (FIOQuantityType.Name.SquareMeterLivingSpace)</MengenartKurzname>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>b687b0c6-337a-4c82-bf3a-d072eac55a02</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>194.52055</Umlagewert>
+  </TAbr_ABRAKBUS>
+  <TAbr_ABRAKBUS>
+    <AbrechnungsgrößeWert>4.000</AbrechnungsgrößeWert>
+    <AnzahlTage>365</AnzahlTage>
+    <DistributionJobPartSettlements_Key>79df8013-1c11-4cf5-b789-57b4ad9b4843</DistributionJobPartSettlements_Key>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <Liste>424 BK - 2022</Liste>
+    <Mengenart>Anzahl Rauchwarnmelder (FIOQuantityType.Name.SmokeAlarmDeviceCount)</Mengenart>
+    <MengenartDbId>48</MengenartDbId>
+    <MengenartKurzname>Anzahl Rauchwarnmelder (FIOQuantityType.Name.SmokeAlarmDeviceCount)</MengenartKurzname>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>e6f3332f-a954-4265-a59a-9e892dca1d99</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>3.89041</Umlagewert>
+  </TAbr_ABRAKBUS>
+  <TAbr_ABRAKBU>
+    <AbrechnungsgrößeWert>0</AbrechnungsgrößeWert>
+    <AnzahlTage>10</AnzahlTage>
+    <Gesamtwert>0</Gesamtwert>
+    <GültigBis>2022-01-10T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>ba7a2d21-a1fd-45c1-accd-5db5d9becbcb</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>b687b0c6-337a-4c82-bf3a-d072eac55a02</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>0</Umlagewert>
+  </TAbr_ABRAKBU>
+  <TAbr_ABRAKBU>
+    <AbrechnungsgrößeWert>200.000</AbrechnungsgrößeWert>
+    <AnzahlTage>355</AnzahlTage>
+    <Gesamtwert>71000.000</Gesamtwert>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-11T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>053f7ebd-0893-44af-821a-270fe64cedf9</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>b687b0c6-337a-4c82-bf3a-d072eac55a02</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>194.52055</Umlagewert>
+  </TAbr_ABRAKBU>
+  <TAbr_ABRAKBU>
+    <AbrechnungsgrößeWert>0</AbrechnungsgrößeWert>
+    <AnzahlTage>10</AnzahlTage>
+    <Gesamtwert>0</Gesamtwert>
+    <GültigBis>2022-01-10T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>bd4cdff8-3e39-4892-bc03-c49efe14670d</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>e6f3332f-a954-4265-a59a-9e892dca1d99</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>0</Umlagewert>
+  </TAbr_ABRAKBU>
+  <TAbr_ABRAKBU>
+    <AbrechnungsgrößeWert>4.000</AbrechnungsgrößeWert>
+    <AnzahlTage>355</AnzahlTage>
+    <Gesamtwert>1420.000</Gesamtwert>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-11T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>c53499ac-1aa0-467d-8698-b560b2477298</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>e6f3332f-a954-4265-a59a-9e892dca1d99</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>3.89041</Umlagewert>
+  </TAbr_ABRAKBU>
+  <TAbr_ABRNEBUS>
+    <AbrechnungsgrößeWert>100.000</AbrechnungsgrößeWert>
+    <AnzahlTage>365</AnzahlTage>
+    <DistributionJobPartSettlements_Key>79df8013-1c11-4cf5-b789-57b4ad9b4843</DistributionJobPartSettlements_Key>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <Liste>10, 110, 150, 30, 50, 60, 70</Liste>
+    <Mengenart>m² Nutz-/Wohnfläche (FIOQuantityType.Name.SquareMeterLivingSpace)</Mengenart>
+    <MengenartDbId>3</MengenartDbId>
+    <MengenartKurzname>m² Nutz-/Wohnfläche (FIOQuantityType.Name.SquareMeterLivingSpace)</MengenartKurzname>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>23dd32b8-72a2-4601-9d40-8327d9db0a4e</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>97.26027</Umlagewert>
+  </TAbr_ABRNEBUS>
+  <TAbr_ABRNEBUS>
+    <AbrechnungsgrößeWert>2.000</AbrechnungsgrößeWert>
+    <AnzahlTage>365</AnzahlTage>
+    <DistributionJobPartSettlements_Key>79df8013-1c11-4cf5-b789-57b4ad9b4843</DistributionJobPartSettlements_Key>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <Liste>254</Liste>
+    <Mengenart>Anzahl Rauchwarnmelder (FIOQuantityType.Name.SmokeAlarmDeviceCount)</Mengenart>
+    <MengenartDbId>48</MengenartDbId>
+    <MengenartKurzname>Anzahl Rauchwarnmelder (FIOQuantityType.Name.SmokeAlarmDeviceCount)</MengenartKurzname>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>00962031-716f-467d-b0d1-5e0ea373bfae</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>1.94521</Umlagewert>
+  </TAbr_ABRNEBUS>
+  <TAbr_ABRNEBU>
+    <AbrechnungsgrößeWert>0</AbrechnungsgrößeWert>
+    <AnzahlTage>10</AnzahlTage>
+    <Gesamtwert>0</Gesamtwert>
+    <GültigBis>2022-01-10T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>d0c739b2-c718-4db0-97c0-faa1062a74f9</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>23dd32b8-72a2-4601-9d40-8327d9db0a4e</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>0</Umlagewert>
+  </TAbr_ABRNEBU>
+  <TAbr_ABRNEBU>
+    <AbrechnungsgrößeWert>100.000</AbrechnungsgrößeWert>
+    <AnzahlTage>355</AnzahlTage>
+    <Gesamtwert>35500.000</Gesamtwert>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-11T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>b64de0fe-e7e7-4499-9453-ec2af59a9e5a</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>23dd32b8-72a2-4601-9d40-8327d9db0a4e</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>97.26027</Umlagewert>
+  </TAbr_ABRNEBU>
+  <TAbr_ABRNEBU>
+    <AbrechnungsgrößeWert>0</AbrechnungsgrößeWert>
+    <AnzahlTage>10</AnzahlTage>
+    <Gesamtwert>0</Gesamtwert>
+    <GültigBis>2022-01-10T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>38f8332a-9155-458b-81b6-6473d5fb7d34</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>00962031-716f-467d-b0d1-5e0ea373bfae</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>0</Umlagewert>
+  </TAbr_ABRNEBU>
+  <TAbr_ABRNEBU>
+    <AbrechnungsgrößeWert>2.000</AbrechnungsgrößeWert>
+    <AnzahlTage>355</AnzahlTage>
+    <Gesamtwert>710.000</Gesamtwert>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-11T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>9533c0d1-f905-45d1-9f00-30bb0c1b8ec1</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>00962031-716f-467d-b0d1-5e0ea373bfae</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>1.94521</Umlagewert>
+  </TAbr_ABRNEBU>
+  <TAbr_ABRNVBUS>
+    <AbrechnungsgrößeWert>100.000</AbrechnungsgrößeWert>
+    <AnzahlTage>365</AnzahlTage>
+    <DistributionJobPartSettlements_Key>79df8013-1c11-4cf5-b789-57b4ad9b4843</DistributionJobPartSettlements_Key>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <Liste>10, 110, 150, 30, 50, 60, 70</Liste>
+    <Mengenart>m² Nutz-/Wohnfläche (FIOQuantityType.Name.SquareMeterLivingSpace)</Mengenart>
+    <MengenartDbId>3</MengenartDbId>
+    <MengenartKurzname>m² Nutz-/Wohnfläche (FIOQuantityType.Name.SquareMeterLivingSpace)</MengenartKurzname>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>93a2cf33-5c13-4e7a-b287-c8fb847ecbbc</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>97.26027</Umlagewert>
+  </TAbr_ABRNVBUS>
+  <TAbr_ABRNVBUS>
+    <AbrechnungsgrößeWert>2.000</AbrechnungsgrößeWert>
+    <AnzahlTage>365</AnzahlTage>
+    <DistributionJobPartSettlements_Key>79df8013-1c11-4cf5-b789-57b4ad9b4843</DistributionJobPartSettlements_Key>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <Liste>254</Liste>
+    <Mengenart>Anzahl Rauchwarnmelder (FIOQuantityType.Name.SmokeAlarmDeviceCount)</Mengenart>
+    <MengenartDbId>48</MengenartDbId>
+    <MengenartKurzname>Anzahl Rauchwarnmelder (FIOQuantityType.Name.SmokeAlarmDeviceCount)</MengenartKurzname>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>1199c49e-3ed7-4da1-9476-118817432a4c</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>1.94521</Umlagewert>
+  </TAbr_ABRNVBUS>
+  <TAbr_ABRNVBU>
+    <AbrechnungsgrößeWert>0</AbrechnungsgrößeWert>
+    <AnzahlTage>10</AnzahlTage>
+    <Gesamtwert>0</Gesamtwert>
+    <GültigBis>2022-01-10T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>4356d134-28eb-4d26-9ef6-a41eaa828aea</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>93a2cf33-5c13-4e7a-b287-c8fb847ecbbc</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>0</Umlagewert>
+  </TAbr_ABRNVBU>
+  <TAbr_ABRNVBU>
+    <AbrechnungsgrößeWert>100.000</AbrechnungsgrößeWert>
+    <AnzahlTage>355</AnzahlTage>
+    <Gesamtwert>35500.000</Gesamtwert>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-11T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>6a72a849-ecaa-4320-8a90-31b8c3067a14</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>93a2cf33-5c13-4e7a-b287-c8fb847ecbbc</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>97.26027</Umlagewert>
+  </TAbr_ABRNVBU>
+  <TAbr_ABRNVBU>
+    <AbrechnungsgrößeWert>0</AbrechnungsgrößeWert>
+    <AnzahlTage>10</AnzahlTage>
+    <Gesamtwert>0</Gesamtwert>
+    <GültigBis>2022-01-10T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>776e62cd-d25c-45ca-95ef-25e489a352a9</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>1199c49e-3ed7-4da1-9476-118817432a4c</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>0</Umlagewert>
+  </TAbr_ABRNVBU>
+  <TAbr_ABRNVBU>
+    <AbrechnungsgrößeWert>2.000</AbrechnungsgrößeWert>
+    <AnzahlTage>355</AnzahlTage>
+    <Gesamtwert>710.000</Gesamtwert>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-11T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>6ea2805b-ee59-4b8a-8e6f-206bd35f690b</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>1199c49e-3ed7-4da1-9476-118817432a4c</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>1.94521</Umlagewert>
+  </TAbr_ABRNVBU>
+  <AKTABR>
+    <AKKVDbId>20</AKKVDbId>
+    <AKKVName>424 BK - 2022</AKKVName>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <KostenanteilUmlageWertAK>194,520 m² Nutz-/Wohnfläche</KostenanteilUmlageWertAK>
+    <SettlementDocumentAllocationGroupDto_Key>84cdd8ef-543a-4fbb-931a-6c073e1d09ad</SettlementDocumentAllocationGroupDto_Key>
+    <UmlagekostenartenDruckreihenfolge>10, 30, 150</UmlagekostenartenDruckreihenfolge>
+  </AKTABR>
+  <CBABR>
+    <Bezeichnung>344000</Bezeichnung>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <Erhöhung>0</Erhöhung>
+    <Gesamt>0</Gesamt>
+    <Mengenart>Miteigentumsanteil (FIOQuantityType.Name.CoOwnershipShare)</Mengenart>
+    <MengenartKurzname>Miteigentumsanteil (FIOQuantityType.Name.CoOwnershipShare)</MengenartKurzname>
+    <Pauschalsteuer>0</Pauschalsteuer>
+    <SaldoVorherigePeriode>0</SaldoVorherigePeriode>
+    <SettlementDocumentCondominiumBalanceDto_Key>489e170b-bf3d-478a-bee6-59b23b789245</SettlementDocumentCondominiumBalanceDto_Key>
+    <Solidaritätszuschlag>0</Solidaritätszuschlag>
+    <Verringerung>0</Verringerung>
+    <Zins>0</Zins>
+    <Zusammenfassung>344000 - Instandhaltungsrücklage</Zusammenfassung>
+  </CBABR>
+  <CBABR_PersSaldo>
+    <Bezeichnung>344000</Bezeichnung>
+    <Erhöhung>0</Erhöhung>
+    <Gesamt>0</Gesamt>
+    <Id>1316</Id>
+    <MasterAccountCondominiumBalanceDto_Key>dfa6cc03-6723-40a7-9a42-4325b57745f1</MasterAccountCondominiumBalanceDto_Key>
+    <Pauschalsteuer>0</Pauschalsteuer>
+    <SaldoVorherigePeriode>0</SaldoVorherigePeriode>
+    <SettlementDocumentCondominiumBalanceDto_Key>489e170b-bf3d-478a-bee6-59b23b789245</SettlementDocumentCondominiumBalanceDto_Key>
+    <Solidaritätszuschlag>0</Solidaritätszuschlag>
+    <Verringerung>0</Verringerung>
+    <Zins>0</Zins>
+    <Zusammenfassung>344000 - Instandhaltungsrücklage</Zusammenfassung>
+  </CBABR_PersSaldo>
+  <CBABR1>
+    <Bezeichnung>344000</Bezeichnung>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <Erhöhung>0</Erhöhung>
+    <Gesamt>0</Gesamt>
+    <Mengenart>Miteigentumsanteil (FIOQuantityType.Name.CoOwnershipShare)</Mengenart>
+    <MengenartKurzname>Miteigentumsanteil (FIOQuantityType.Name.CoOwnershipShare)</MengenartKurzname>
+    <Pauschalsteuer>0</Pauschalsteuer>
+    <SaldoVorherigePeriode>0</SaldoVorherigePeriode>
+    <SettlementDocumentCondominiumBalanceDto_Key>49e498f9-905f-4250-8314-b0c835407e4b</SettlementDocumentCondominiumBalanceDto_Key>
+    <Solidaritätszuschlag>0</Solidaritätszuschlag>
+    <Verringerung>0</Verringerung>
+    <Zins>0</Zins>
+    <Zusammenfassung>344000 - Instandhaltungsrücklage</Zusammenfassung>
+  </CBABR1>
+  <CBABR1_PersSaldo>
+    <Bezeichnung>344000</Bezeichnung>
+    <Erhöhung>0</Erhöhung>
+    <Gesamt>0</Gesamt>
+    <Id>1316</Id>
+    <MasterAccountCondominiumBalanceDto_Key>394ac34a-649b-47ff-aa3b-3df60d199e11</MasterAccountCondominiumBalanceDto_Key>
+    <Pauschalsteuer>0</Pauschalsteuer>
+    <SaldoVorherigePeriode>0</SaldoVorherigePeriode>
+    <SettlementDocumentCondominiumBalanceDto_Key>49e498f9-905f-4250-8314-b0c835407e4b</SettlementDocumentCondominiumBalanceDto_Key>
+    <Solidaritätszuschlag>0</Solidaritätszuschlag>
+    <Verringerung>0</Verringerung>
+    <Zins>0</Zins>
+    <Zusammenfassung>344000 - Instandhaltungsrücklage</Zusammenfassung>
+  </CBABR1_PersSaldo>
+  <PBABR>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <Ergebnis>-417.74</Ergebnis>
+    <ErgebnisAbsolut>417.74</ErgebnisAbsolut>
+    <GesamtKosten>750.00</GesamtKosten>
+    <KostenanteilAK-Kostenart>1500.00</KostenanteilAK-Kostenart>
+    <SettlementDocumentPrepaymentBlockDto_Key>468c801f-cb3c-44e8-94a1-a4fc1fa8ab41</SettlementDocumentPrepaymentBlockDto_Key>
+    <SteuerWert>0</SteuerWert>
+    <SummeAusfallwagnis>0</SummeAusfallwagnis>
+    <SummeKostenanteile>750.00</SummeKostenanteile>
+    <SummeKostenanteileBrutto>750.00</SummeKostenanteileBrutto>
+    <VZAbrechnungszeitraumBis>2022-12-31T00:00:00+01:00</VZAbrechnungszeitraumBis>
+    <VZAbrechnungszeitraumVon>2022-01-01T00:00:00+01:00</VZAbrechnungszeitraumVon>
+    <VZBlock>VZ Hausgeld</VZBlock>
+    <VZWertBrutto>1167.74</VZWertBrutto>
+    <VZWertNetto>1167.74</VZWertNetto>
+    <VZWertSteuer>0.00</VZWertSteuer>
+  </PBABR>
+  <PBABR_ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>800000</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>dbcb6634-7658-4f79-b9e2-e402d03fb867</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SettlementDocumentPrepaymentBlockDto_Key>468c801f-cb3c-44e8-94a1-a4fc1fa8ab41</SettlementDocumentPrepaymentBlockDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Wasserversorgung</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>10</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </PBABR_ACKATABR>
+  <PBABR_ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>800100</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>a0068ac5-f7ce-45e4-aadc-90d77745197c</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SettlementDocumentPrepaymentBlockDto_Key>468c801f-cb3c-44e8-94a1-a4fc1fa8ab41</SettlementDocumentPrepaymentBlockDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Kosten der Entwässerung</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>30</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </PBABR_ACKATABR>
+  <PBABR_ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>801100</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>760b4925-1c16-4c1d-9108-8a263f737b30</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SettlementDocumentPrepaymentBlockDto_Key>468c801f-cb3c-44e8-94a1-a4fc1fa8ab41</SettlementDocumentPrepaymentBlockDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Allgemeinstrom</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>150</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </PBABR_ACKATABR>
+  <PBABR1>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <Ergebnis>-417.74</Ergebnis>
+    <ErgebnisAbsolut>417.74</ErgebnisAbsolut>
+    <GesamtKosten>750.00</GesamtKosten>
+    <KostenanteilAK-Kostenart>1500.00</KostenanteilAK-Kostenart>
+    <SettlementDocumentPrepaymentBlockDto_Key>e547c176-9753-4f4e-9581-feb577ac4167</SettlementDocumentPrepaymentBlockDto_Key>
+    <SteuerWert>0</SteuerWert>
+    <SummeAusfallwagnis>0</SummeAusfallwagnis>
+    <SummeKostenanteile>750.00</SummeKostenanteile>
+    <SummeKostenanteileBrutto>750.00</SummeKostenanteileBrutto>
+    <VZAbrechnungszeitraumBis>2022-12-31T00:00:00+01:00</VZAbrechnungszeitraumBis>
+    <VZAbrechnungszeitraumVon>2022-01-01T00:00:00+01:00</VZAbrechnungszeitraumVon>
+    <VZBlock>VZ Hausgeld</VZBlock>
+    <VZWertBrutto>1167.74</VZWertBrutto>
+    <VZWertNetto>1167.74</VZWertNetto>
+    <VZWertSteuer>0.00</VZWertSteuer>
+  </PBABR1>
+  <PBABR1_ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>800000</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>0e7f63c8-c59d-4b1c-b6eb-245c388368cb</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SettlementDocumentPrepaymentBlockDto_Key>e547c176-9753-4f4e-9581-feb577ac4167</SettlementDocumentPrepaymentBlockDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Wasserversorgung</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>10</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </PBABR1_ACKATABR>
+  <PBABR1_ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>800100</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>157b7ff0-cb40-4e84-b01d-bdae9ea0eb64</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SettlementDocumentPrepaymentBlockDto_Key>e547c176-9753-4f4e-9581-feb577ac4167</SettlementDocumentPrepaymentBlockDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Kosten der Entwässerung</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>30</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </PBABR1_ACKATABR>
+  <PBABR1_ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>801100</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>fe510a85-c11c-4e1c-b768-bde9c51274c3</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SettlementDocumentPrepaymentBlockDto_Key>e547c176-9753-4f4e-9581-feb577ac4167</SettlementDocumentPrepaymentBlockDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Allgemeinstrom</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>150</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </PBABR1_ACKATABR>
+  <ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>800000</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>a3aa5526-8d74-4295-a2e4-ae4499c284c0</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Wasserversorgung</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>10</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </ACKATABR>
+  <ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>800100</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>99adac1c-e238-47a3-84ef-dd290fd6ea6a</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Kosten der Entwässerung</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>30</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </ACKATABR>
+  <ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>801100</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>ed40edf2-eed3-413c-98ff-9aca467b6051</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Allgemeinstrom</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>150</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </ACKATABR>
+  <SACKATABR>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <GesamtKosten>1500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart>1500.00</KostenanteilAK-Kostenart>
+    <SettlementDocumentAllocationGroupCostsDto_Key>2e78e925-cdd0-45a0-a2dd-bca4ae912427</SettlementDocumentAllocationGroupCostsDto_Key>
+  </SACKATABR>
+  <CDGABR>
+    <Abrechenbar>true</Abrechenbar>
+    <AbrechenbareKosten>1500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>1500.00</AbrechenbareKostenDifferenz>
+    <DifferenzZuPlanzahlen>1500.00</DifferenzZuPlanzahlen>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <KostenanteilTNT-NV1>750.00</KostenanteilTNT-NV1>
+    <PlanzahlenWirtschaftsplan>0</PlanzahlenWirtschaftsplan>
+    <SettlementDocumentCondominiumDistributionGroupDto_Key>0c9af004-27ff-46f9-b7b8-735f35c7875b</SettlementDocumentCondominiumDistributionGroupDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <VerteilungsgruppierungWEGBezeichnung>Nutz-/Wohnfläche</VerteilungsgruppierungWEGBezeichnung>
+  </CDGABR>
+  <CDGABR_ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>800000</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>63c20436-4e91-4e5b-b694-cf47edf114d7</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SettlementDocumentCondominiumDistributionGroupDto_Key>0c9af004-27ff-46f9-b7b8-735f35c7875b</SettlementDocumentCondominiumDistributionGroupDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Wasserversorgung</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>10</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </CDGABR_ACKATABR>
+  <CDGABR_ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>800100</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>4de177ca-4988-4369-ac2b-1fa4e7d1aa3c</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SettlementDocumentCondominiumDistributionGroupDto_Key>0c9af004-27ff-46f9-b7b8-735f35c7875b</SettlementDocumentCondominiumDistributionGroupDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Kosten der Entwässerung</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>30</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </CDGABR_ACKATABR>
+  <CDGABR_ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>801100</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>0f3b6ee2-399e-4406-854a-242d4a6fbe5b</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SettlementDocumentCondominiumDistributionGroupDto_Key>0c9af004-27ff-46f9-b7b8-735f35c7875b</SettlementDocumentCondominiumDistributionGroupDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Allgemeinstrom</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>150</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </CDGABR_ACKATABR>
+  <CDGABR1>
+    <Abrechenbar>true</Abrechenbar>
+    <AbrechenbareKosten>1500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>1500.00</AbrechenbareKostenDifferenz>
+    <DifferenzZuPlanzahlen>1500.00</DifferenzZuPlanzahlen>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <KostenanteilTNT-NV1>750.00</KostenanteilTNT-NV1>
+    <PlanzahlenWirtschaftsplan>0</PlanzahlenWirtschaftsplan>
+    <SettlementDocumentCondominiumDistributionGroupDto_Key>c845d272-166b-4c0f-bfd6-81a737a1cfa1</SettlementDocumentCondominiumDistributionGroupDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <VerteilungsgruppierungWEGBezeichnung>umlagefähige Kosten</VerteilungsgruppierungWEGBezeichnung>
+  </CDGABR1>
+  <CDGABR1_ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>800000</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>c7b94975-2f04-415b-8965-9eea673a15bc</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SettlementDocumentCondominiumDistributionGroupDto_Key>c845d272-166b-4c0f-bfd6-81a737a1cfa1</SettlementDocumentCondominiumDistributionGroupDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Wasserversorgung</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>10</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </CDGABR1_ACKATABR>
+  <CDGABR1_ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>800100</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>d9f049cf-54dc-4895-a56d-174e1f90301f</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SettlementDocumentCondominiumDistributionGroupDto_Key>c845d272-166b-4c0f-bfd6-81a737a1cfa1</SettlementDocumentCondominiumDistributionGroupDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Kosten der Entwässerung</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>30</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </CDGABR1_ACKATABR>
+  <CDGABR1_ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>801100</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>378161a8-3f38-426d-9cc0-de794a5572e1</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SettlementDocumentCondominiumDistributionGroupDto_Key>c845d272-166b-4c0f-bfd6-81a737a1cfa1</SettlementDocumentCondominiumDistributionGroupDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Allgemeinstrom</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>150</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </CDGABR1_ACKATABR>
+  <SAGCTABR>
+    <AbrechenbareKosten>1500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>1500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>1500.00</DifferenzZuPlanzahlen>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <GesamtKosten>1500.00</GesamtKosten>
+    <KostenanteilTNT-NV1>750.00</KostenanteilTNT-NV1>
+    <PlanzahlenWirtschaftsplan>0</PlanzahlenWirtschaftsplan>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>c3bf7aaa-0f6d-4a70-96ef-f1cbf39a44a9</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+  </SAGCTABR>
+  <DCDGABR>
+    <Abrechenbar>true</Abrechenbar>
+    <AbrechenbareKosten>1500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>1500.00</AbrechenbareKostenDifferenz>
+    <DifferenzZuPlanzahlen>1500.00</DifferenzZuPlanzahlen>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <KostenanteilTNT-NV1>750.00</KostenanteilTNT-NV1>
+    <PlanzahlenWirtschaftsplan>0</PlanzahlenWirtschaftsplan>
+    <SettlementDocumentCondominiumDistributionGroupDto_Key>cacbf99b-0f8f-4cba-b7ed-456a13d453e6</SettlementDocumentCondominiumDistributionGroupDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <VerteilungsgruppierungWEGBezeichnung>umlagefähige Kosten</VerteilungsgruppierungWEGBezeichnung>
+  </DCDGABR>
+  <DCDGABR_ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>800000</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>9d5a3af6-7be6-4a09-a83a-b5079f0c2d50</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SettlementDocumentCondominiumDistributionGroupDto_Key>cacbf99b-0f8f-4cba-b7ed-456a13d453e6</SettlementDocumentCondominiumDistributionGroupDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Wasserversorgung</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>10</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </DCDGABR_ACKATABR>
+  <DCDGABR_ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>800100</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>f17894b0-7de3-4aa3-bfda-b2608d80e284</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SettlementDocumentCondominiumDistributionGroupDto_Key>cacbf99b-0f8f-4cba-b7ed-456a13d453e6</SettlementDocumentCondominiumDistributionGroupDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Kosten der Entwässerung</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>30</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </DCDGABR_ACKATABR>
+  <DCDGABR_ACKATABR>
+    <AbrechenbareKosten>500.00</AbrechenbareKosten>
+    <AbrechenbareKostenDifferenz>500.00</AbrechenbareKostenDifferenz>
+    <AbrechnungsartHatNegativeKosten>false</AbrechnungsartHatNegativeKosten>
+    <DifferenzZuPlanzahlen>500.00</DifferenzZuPlanzahlen>
+    <ElementarerVerteilerschlüsselJeEinheit1>m² Nutz-/Wohnfläche</ElementarerVerteilerschlüsselJeEinheit1>
+    <GeplanteKostenVorperiode>0</GeplanteKostenVorperiode>
+    <Gesamtbetrag1Gesamteinheiten1>2.570</Gesamtbetrag1Gesamteinheiten1>
+    <GesamtKosten>500.00</GesamtKosten>
+    <KostenanteilAK-Kostenart1>500.00</KostenanteilAK-Kostenart1>
+    <KostenanteilJeEinheit1>m² Nutz-/Wohnfläche</KostenanteilJeEinheit1>
+    <KostenanteilNV1>250.00</KostenanteilNV1>
+    <KostenanteilTNT-NV1>250.00</KostenanteilTNT-NV1>
+    <Kurzbezeichnung>801100</Kurzbezeichnung>
+    <SettlementDocumentAllocationGroupCostTypeDto_Key>ec7dc77b-a6a7-48ed-8bd7-97b32a92e56c</SettlementDocumentAllocationGroupCostTypeDto_Key>
+    <SettlementDocumentCondominiumDistributionGroupDto_Key>cacbf99b-0f8f-4cba-b7ed-456a13d453e6</SettlementDocumentCondominiumDistributionGroupDto_Key>
+    <SummKostenVorperiode>0</SummKostenVorperiode>
+    <Umlagekostenart>Allgemeinstrom</Umlagekostenart>
+    <UmlagekostenartDruckreihenfolge>150</UmlagekostenartDruckreihenfolge>
+    <UmlagewertAK1>194.520</UmlagewertAK1>
+    <UmlagewertNV1>97.260</UmlagewertNV1>
+    <UmlagewertTNT-NV1>97.260</UmlagewertTNT-NV1>
+    <VerteilerschlüsselBezeichnung>Nutz-/Wohnfläche</VerteilerschlüsselBezeichnung>
+  </DCDGABR_ACKATABR>
+  <DSCDGABR>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <KostenanteilTNT-NV>750.00</KostenanteilTNT-NV>
+    <SettlementDocumentAllocationGroupDistributableCostsDto_Key>e7a89753-18b2-4084-91f6-003736ab5bbc</SettlementDocumentAllocationGroupDistributableCostsDto_Key>
+  </DSCDGABR>
+  <PSTCABR>
+    <BetragHaben>0</BetragHaben>
+    <BetragSoll>0</BetragSoll>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <Id>6</Id>
+    <SettlementDocumentProprietaryStatusDto_Key>14d423a5-b8b4-4151-8af1-eb2a92db1ebf</SettlementDocumentProprietaryStatusDto_Key>
+  </PSTCABR>
+  <BKSABR>
+    <BetragMitVorzeichen>0</BetragMitVorzeichen>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <OffenerBetrag>0</OffenerBetrag>
+    <SettlementDocumentBookingSummaryDto_Key>70396b66-b14a-4447-961a-59765b4e4723</SettlementDocumentBookingSummaryDto_Key>
+    <Zahlungsbetrag>0</Zahlungsbetrag>
+  </BKSABR>
+  <CPBKABR>
+    <BetragMitVorzeichen>0</BetragMitVorzeichen>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <NVPositionBezeichnung>VZ Hausgeld</NVPositionBezeichnung>
+    <OffenerBetrag>0</OffenerBetrag>
+    <SettlementDocumentBookingSummaryContractPositionDto_Key>38827014-bdff-447b-a3ae-34ef1c79f772</SettlementDocumentBookingSummaryContractPositionDto_Key>
+    <Zahlungsbetrag>0</Zahlungsbetrag>
+  </CPBKABR>
+  <CPBKABR>
+    <BetragMitVorzeichen>0</BetragMitVorzeichen>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <NVPositionBezeichnung>Instandhaltungsrücklage</NVPositionBezeichnung>
+    <OffenerBetrag>0</OffenerBetrag>
+    <SettlementDocumentBookingSummaryContractPositionDto_Key>2bd0244c-4140-40ae-b1d6-95f26c4a064f</SettlementDocumentBookingSummaryContractPositionDto_Key>
+    <Zahlungsbetrag>0</Zahlungsbetrag>
+  </CPBKABR>
+  <InstandhaltRueckl>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <DistributionJobSettlementSinkingFunds_Key>bb4be5ba-bc47-419d-bb00-4c9e3312e0d3</DistributionJobSettlementSinkingFunds_Key>
+    <IRDefinition>Rucklage test 424</IRDefinition>
+    <SaldoNegativ>-1167.74</SaldoNegativ>
+    <SollBetrag>1167.74</SollBetrag>
+    <SollBetragGesamt>2335.48</SollBetragGesamt>
+    <ZahlbetragNegativ>0.00</ZahlbetragNegativ>
+  </InstandhaltRueckl>
+  <InstandhaltRueckl1>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <DistributionJobSettlementSinkingFunds_Key>857f3aa2-4a33-424b-b422-468e78fcb24a</DistributionJobSettlementSinkingFunds_Key>
+    <IRDefinition>Rucklage test 424</IRDefinition>
+    <SaldoNegativ>-1167.74</SaldoNegativ>
+    <SollBetrag>1167.74</SollBetrag>
+    <SollBetragGesamt>2335.48</SollBetragGesamt>
+    <ZahlbetragNegativ>0.00</ZahlbetragNegativ>
+  </InstandhaltRueckl1>
+  <ABRAKBUS>
+    <AbrechnungsgrößeWert>200.000</AbrechnungsgrößeWert>
+    <AnzahlTage>365</AnzahlTage>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <Liste>424 BK - 2022</Liste>
+    <Mengenart>m² Nutz-/Wohnfläche (FIOQuantityType.Name.SquareMeterLivingSpace)</Mengenart>
+    <MengenartDbId>3</MengenartDbId>
+    <MengenartKurzname>m² Nutz-/Wohnfläche (FIOQuantityType.Name.SquareMeterLivingSpace)</MengenartKurzname>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>ebc7fc80-8245-4f2e-bc8d-b430fb6c591d</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>194.52055</Umlagewert>
+  </ABRAKBUS>
+  <ABRAKBUS>
+    <AbrechnungsgrößeWert>4.000</AbrechnungsgrößeWert>
+    <AnzahlTage>365</AnzahlTage>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <Liste>424 BK - 2022</Liste>
+    <Mengenart>Anzahl Rauchwarnmelder (FIOQuantityType.Name.SmokeAlarmDeviceCount)</Mengenart>
+    <MengenartDbId>48</MengenartDbId>
+    <MengenartKurzname>Anzahl Rauchwarnmelder (FIOQuantityType.Name.SmokeAlarmDeviceCount)</MengenartKurzname>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>af3e65f5-d52c-4b0e-ae5c-0ff7ab7c7851</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>3.89041</Umlagewert>
+  </ABRAKBUS>
+  <ABRAKBU>
+    <AbrechnungsgrößeWert>0</AbrechnungsgrößeWert>
+    <AnzahlTage>10</AnzahlTage>
+    <Gesamtwert>0</Gesamtwert>
+    <GültigBis>2022-01-10T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>6c38d1cb-fc67-483e-9dcd-08a46cbe6ecf</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>ebc7fc80-8245-4f2e-bc8d-b430fb6c591d</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>0</Umlagewert>
+  </ABRAKBU>
+  <ABRAKBU>
+    <AbrechnungsgrößeWert>200.000</AbrechnungsgrößeWert>
+    <AnzahlTage>355</AnzahlTage>
+    <Gesamtwert>71000.000</Gesamtwert>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-11T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>6edc211c-ce4c-4e3b-9623-e25201e28838</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>ebc7fc80-8245-4f2e-bc8d-b430fb6c591d</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>194.52055</Umlagewert>
+  </ABRAKBU>
+  <ABRAKBU>
+    <AbrechnungsgrößeWert>0</AbrechnungsgrößeWert>
+    <AnzahlTage>10</AnzahlTage>
+    <Gesamtwert>0</Gesamtwert>
+    <GültigBis>2022-01-10T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>01a4beb4-4a05-4811-afc9-45c8816d39b2</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>af3e65f5-d52c-4b0e-ae5c-0ff7ab7c7851</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>0</Umlagewert>
+  </ABRAKBU>
+  <ABRAKBU>
+    <AbrechnungsgrößeWert>4.000</AbrechnungsgrößeWert>
+    <AnzahlTage>355</AnzahlTage>
+    <Gesamtwert>1420.000</Gesamtwert>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-11T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>1986cc0c-63ea-444b-bbd2-532d86d2e577</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>af3e65f5-d52c-4b0e-ae5c-0ff7ab7c7851</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>3.89041</Umlagewert>
+  </ABRAKBU>
+  <ABRNEBUS>
+    <AbrechnungsgrößeWert>100.000</AbrechnungsgrößeWert>
+    <AnzahlTage>365</AnzahlTage>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <Liste>10, 110, 150, 30, 50, 60, 70</Liste>
+    <Mengenart>m² Nutz-/Wohnfläche (FIOQuantityType.Name.SquareMeterLivingSpace)</Mengenart>
+    <MengenartDbId>3</MengenartDbId>
+    <MengenartKurzname>m² Nutz-/Wohnfläche (FIOQuantityType.Name.SquareMeterLivingSpace)</MengenartKurzname>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>3942b795-2f44-41e1-b900-3775608ceac7</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>97.26027</Umlagewert>
+  </ABRNEBUS>
+  <ABRNEBUS>
+    <AbrechnungsgrößeWert>2.000</AbrechnungsgrößeWert>
+    <AnzahlTage>365</AnzahlTage>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <Liste>254</Liste>
+    <Mengenart>Anzahl Rauchwarnmelder (FIOQuantityType.Name.SmokeAlarmDeviceCount)</Mengenart>
+    <MengenartDbId>48</MengenartDbId>
+    <MengenartKurzname>Anzahl Rauchwarnmelder (FIOQuantityType.Name.SmokeAlarmDeviceCount)</MengenartKurzname>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>f27bc5f6-623d-4a30-872a-2968e87d0560</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>1.94521</Umlagewert>
+  </ABRNEBUS>
+  <ABRNEBU>
+    <AbrechnungsgrößeWert>0</AbrechnungsgrößeWert>
+    <AnzahlTage>10</AnzahlTage>
+    <Gesamtwert>0</Gesamtwert>
+    <GültigBis>2022-01-10T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>edf08e84-9a4f-477e-9c85-85f9f24bb746</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>3942b795-2f44-41e1-b900-3775608ceac7</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>0</Umlagewert>
+  </ABRNEBU>
+  <ABRNEBU>
+    <AbrechnungsgrößeWert>100.000</AbrechnungsgrößeWert>
+    <AnzahlTage>355</AnzahlTage>
+    <Gesamtwert>35500.000</Gesamtwert>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-11T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>e568d3be-cc99-4be3-888d-5e5e424e0b0c</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>3942b795-2f44-41e1-b900-3775608ceac7</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>97.26027</Umlagewert>
+  </ABRNEBU>
+  <ABRNEBU>
+    <AbrechnungsgrößeWert>0</AbrechnungsgrößeWert>
+    <AnzahlTage>10</AnzahlTage>
+    <Gesamtwert>0</Gesamtwert>
+    <GültigBis>2022-01-10T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>a5840ec3-d45c-49fb-8e61-c479916c1c4a</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>f27bc5f6-623d-4a30-872a-2968e87d0560</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>0</Umlagewert>
+  </ABRNEBU>
+  <ABRNEBU>
+    <AbrechnungsgrößeWert>2.000</AbrechnungsgrößeWert>
+    <AnzahlTage>355</AnzahlTage>
+    <Gesamtwert>710.000</Gesamtwert>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-11T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>6bec6970-a126-4c79-ac23-97b0c9f50830</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>f27bc5f6-623d-4a30-872a-2968e87d0560</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>1.94521</Umlagewert>
+  </ABRNEBU>
+  <ABRNVBUS>
+    <AbrechnungsgrößeWert>100.000</AbrechnungsgrößeWert>
+    <AnzahlTage>365</AnzahlTage>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <Liste>10, 110, 150, 30, 50, 60, 70</Liste>
+    <Mengenart>m² Nutz-/Wohnfläche (FIOQuantityType.Name.SquareMeterLivingSpace)</Mengenart>
+    <MengenartDbId>3</MengenartDbId>
+    <MengenartKurzname>m² Nutz-/Wohnfläche (FIOQuantityType.Name.SquareMeterLivingSpace)</MengenartKurzname>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>ccf57a43-47dd-4547-98d2-e02cb2aba04d</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>97.26027</Umlagewert>
+  </ABRNVBUS>
+  <ABRNVBUS>
+    <AbrechnungsgrößeWert>2.000</AbrechnungsgrößeWert>
+    <AnzahlTage>365</AnzahlTage>
+    <DistributionJobSettlement_Key>8a9bd901-f152-4877-b4c9-a72f6a2f951b</DistributionJobSettlement_Key>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <Liste>254</Liste>
+    <Mengenart>Anzahl Rauchwarnmelder (FIOQuantityType.Name.SmokeAlarmDeviceCount)</Mengenart>
+    <MengenartDbId>48</MengenartDbId>
+    <MengenartKurzname>Anzahl Rauchwarnmelder (FIOQuantityType.Name.SmokeAlarmDeviceCount)</MengenartKurzname>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>83d748db-6b28-4ba5-a807-c4e60660fa00</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>1.94521</Umlagewert>
+  </ABRNVBUS>
+  <ABRNVBU>
+    <AbrechnungsgrößeWert>0</AbrechnungsgrößeWert>
+    <AnzahlTage>10</AnzahlTage>
+    <Gesamtwert>0</Gesamtwert>
+    <GültigBis>2022-01-10T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>2ec78bb7-7b84-4278-b1a8-8a95302ca8e5</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>ccf57a43-47dd-4547-98d2-e02cb2aba04d</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>0</Umlagewert>
+  </ABRNVBU>
+  <ABRNVBU>
+    <AbrechnungsgrößeWert>100.000</AbrechnungsgrößeWert>
+    <AnzahlTage>355</AnzahlTage>
+    <Gesamtwert>35500.000</Gesamtwert>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-11T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>24257ad0-6e87-41ed-96d4-6051e946446d</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>ccf57a43-47dd-4547-98d2-e02cb2aba04d</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>97.26027</Umlagewert>
+  </ABRNVBU>
+  <ABRNVBU>
+    <AbrechnungsgrößeWert>0</AbrechnungsgrößeWert>
+    <AnzahlTage>10</AnzahlTage>
+    <Gesamtwert>0</Gesamtwert>
+    <GültigBis>2022-01-10T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-01T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>55621423-bed1-4e38-a9da-ce8209318d5e</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>83d748db-6b28-4ba5-a807-c4e60660fa00</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>0</Umlagewert>
+  </ABRNVBU>
+  <ABRNVBU>
+    <AbrechnungsgrößeWert>2.000</AbrechnungsgrößeWert>
+    <AnzahlTage>355</AnzahlTage>
+    <Gesamtwert>710.000</Gesamtwert>
+    <GültigBis>2022-12-31T00:00:00+01:00</GültigBis>
+    <GültigVon>2022-01-11T00:00:00+01:00</GültigVon>
+    <SettlementDocumentBillingUnitPeriodDto_Key>27691607-9d28-4c07-8116-0657af7037e1</SettlementDocumentBillingUnitPeriodDto_Key>
+    <SettlementDocumentBillingUnitsSummaryDto_Key>83d748db-6b28-4ba5-a807-c4e60660fa00</SettlementDocumentBillingUnitsSummaryDto_Key>
+    <Umlagewert>1.94521</Umlagewert>
+  </ABRNVBU>
+  <Benutzer>
+    <CurrentUser_Key>a3327aef-9f5b-4d6f-88ec-b472a3c7eeca</CurrentUser_Key>
+    <DocumentData_Key>a3327aef-9f5b-4d6f-88ec-b472a3c7eeca</DocumentData_Key>
+    <Name>Ezra Rhodes</Name>
+  </Benutzer>
+  <BenutzerPerson>
+    <CurrentUser_Key>a3327aef-9f5b-4d6f-88ec-b472a3c7eeca</CurrentUser_Key>
+    <Email>rainer.zehnle@haufe-lexware.com</Email>
+    <Fax />
+    <Homepage />
+    <IstJuristischePerson>false</IstJuristischePerson>
+    <IstNatuerlichePerson>true</IstNatuerlichePerson>
+    <JuristischePersonName1 />
+    <JuristischePersonName2 />
+    <MeldebescheinigungLagVor>false</MeldebescheinigungLagVor>
+    <Mobilnummer />
+    <Name>Ezra Rhodes</Name>
+    <NatürlichePersonGeschlecht>nicht angegeben (FIOGender.Code.NotSelected)</NatürlichePersonGeschlecht>
+    <NatürlichePersonNachname>Rhodes</NatürlichePersonNachname>
+    <NatürlichePersonTitel />
+    <NatürlichePersonVorname>Ezra</NatürlichePersonVorname>
+    <Person_Key>a9f73429-bd2c-4290-9b07-8a75d3f5c968</Person_Key>
+    <PersonalausweisLagVor>false</PersonalausweisLagVor>
+    <PersonIdNum>rainer.zehnle@haufe-lexware.com</PersonIdNum>
+    <SchufaauskunftLagVor>false</SchufaauskunftLagVor>
+    <Telefon />
+  </BenutzerPerson>
+  <Benutzer_Person_HauptErreichbarkeit>
+    <AccessibilityDto_Key>50676e0b-5f2c-4c08-a767-1f13eed65af2</AccessibilityDto_Key>
+    <Adressart>Geschäftsadresse (FIOAddressType.Code.BusinessAddress)</Adressart>
+    <HouseNumberAndAddition>106</HouseNumberAndAddition>
+    <Land>DEUTSCHLAND (FIOCountry.Code.DE)</Land>
+    <Person_Key>a9f73429-bd2c-4290-9b07-8a75d3f5c968</Person_Key>
+    <PLZUndOrt>54301 Perrysburg</PLZUndOrt>
+    <Straße>St Catherine's Bridge 106</Straße>
+  </Benutzer_Person_HauptErreichbarkeit>
+  <Benutzer_Person_Erreichbarkeiten>
+    <AccessibilityDto_Key>5d91b67e-cc91-4559-8aed-e6578dcd29f7</AccessibilityDto_Key>
+    <Adressart>Geschäftsadresse (FIOAddressType.Code.BusinessAddress)</Adressart>
+    <HouseNumberAndAddition>106</HouseNumberAndAddition>
+    <Land>DEUTSCHLAND (FIOCountry.Code.DE)</Land>
+    <Person_Key>a9f73429-bd2c-4290-9b07-8a75d3f5c968</Person_Key>
+    <PLZUndOrt>54301 Perrysburg</PLZUndOrt>
+    <Straße>St Catherine's Bridge 106</Straße>
+  </Benutzer_Person_Erreichbarkeiten>
+  <Benutzer_Person_Kommunikation>
+    <CommunicationDto_Key>7626bf0f-8991-43ca-9c88-943e1b0b2989</CommunicationDto_Key>
+    <Person_Key>a9f73429-bd2c-4290-9b07-8a75d3f5c968</Person_Key>
+  </Benutzer_Person_Kommunikation>
+</NewDataSet>

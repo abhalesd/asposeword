@@ -1,0 +1,35 @@
+Temp/
+obj/
+classes/
+generated/
+.idea
+*.suo
+*.ide
+applicationhost.config
+bin/
+* Out*
+* out*
+* _out*
+* _out_*
+* _Out_*
+*.ldb
+Thumbs.db
+_ReSharper*/
+out/
+*.lic
+*.user
+Out/
+Out*/
+Data/*Out*
+TestResults/
+*.vsmdi
+test-results/
+*.userprefs
+packages/
+Plugins/Aspose_Words_NET_for_PHP/.idea/*
+Plugins/Aspose_Words_NET_for_PHP/vendor/*
+Plugins/Aspose_Words_NET_for_PHP/composer.lock
+Plugins/Visual Studio/Aspose.Words.GridViewExport/Resources/
+Plugins/DotNetNuke/Aspose.DNN.ExportUsersAndRolesToWord/Aspose/
+*.gitattributes
+.vs
